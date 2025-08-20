@@ -479,10 +479,10 @@
 477,2024-12-06,Lateral Raise (Cable),1.25,21.0,,delts,2,1,1
 478,2024-12-06,Lateral Raise (Cable),1.25,14.0,,delts,2,1,1
 479,2024-12-06,Lateral Raise (Cable),1.25,13.0,,delts,2,1,1
-480,2024-12-06,Hip Thrust (Barbell),20.0,8.0,,glutes,25,0,1
-481,2024-12-06,Hip Thrust (Barbell),20.0,9.0,,glutes,26,0,1
-482,2024-12-06,Hip Thrust (Barbell),20.0,10.0,,glutes,27,0,1
-483,2024-12-06,Hip Thrust (Barbell),20.0,8.0,,glutes,25,0,1
+480,2024-12-06,Hip Thrust (Barbell),20.0,8.0,,hip thrust,25,0,1
+481,2024-12-06,Hip Thrust (Barbell),20.0,9.0,,hip thrust,26,0,1
+482,2024-12-06,Hip Thrust (Barbell),20.0,10.0,,hip thrust,27,0,1
+483,2024-12-06,Hip Thrust (Barbell),20.0,8.0,,hip thrust,25,0,1
 484,2024-12-09,Triceps Extension (Cable),13.75,16.0,,triceps,21,1,1
 485,2024-12-09,Triceps Extension (Cable),13.75,13.0,,triceps,20,1,1
 486,2024-12-09,Triceps Extension (Cable),13.75,9.0,,triceps,18,1,1
@@ -499,10 +499,10 @@
 497,2024-12-11,Chest Fly,33.0,10.0,,pecs,44,1,1
 498,2024-12-11,Chest Fly,26.0,12.0,,pecs,36,1,1
 499,2024-12-11,Chest Fly,26.0,11.0,,pecs,36,1,1
-500,2024-12-11,Hip Thrust (Barbell),20.0,8.0,,glutes,25,0,1
-501,2024-12-11,Hip Thrust (Barbell),22.5,8.0,,glutes,28,0,1
-502,2024-12-11,Hip Thrust (Barbell),25.0,8.0,,glutes,32,0,1
-503,2024-12-11,Hip Thrust (Barbell),25.0,8.0,,glutes,32,0,1
+500,2024-12-11,Hip Thrust (Barbell),20.0,8.0,,hip thrust,25,0,1
+501,2024-12-11,Hip Thrust (Barbell),22.5,8.0,,hip thrust,28,0,1
+502,2024-12-11,Hip Thrust (Barbell),25.0,8.0,,hip thrust,32,0,1
+503,2024-12-11,Hip Thrust (Barbell),25.0,8.0,,hip thrust,32,0,1
 504,2024-12-13,Lat Pulldown (Cable),40.0,15.0,,lats,60,1,1
 505,2024-12-13,Lat Pulldown (Cable),40.0,11.0,,lats,55,1,1
 506,2024-12-13,Lat Pulldown (Cable),40.0,10.0,,lats,53,1,1
@@ -511,10 +511,10 @@
 509,2024-12-13,Triceps Extension (Cable),13.75,8.0,,triceps,17,1,1
 510,2024-12-13,Triceps Extension (Cable),11.75,11.0,,triceps,16,1,1
 511,2024-12-13,Triceps Extension (Cable),11.25,11.0,,triceps,15,1,1
-512,2024-12-20,Hip Thrust (Barbell),30.0,9.0,,glutes,39,0,1
-513,2024-12-20,Hip Thrust (Barbell),30.0,7.0,,glutes,37,0,1
-514,2024-12-20,Hip Thrust (Barbell),30.0,9.0,,glutes,39,0,1
-515,2024-12-20,Hip Thrust (Barbell),30.0,6.0,,glutes,36,0,1
+512,2024-12-20,Hip Thrust (Barbell),30.0,9.0,,hip thrust,39,0,1
+513,2024-12-20,Hip Thrust (Barbell),30.0,7.0,,hip thrust,37,0,1
+514,2024-12-20,Hip Thrust (Barbell),30.0,9.0,,hip thrust,39,0,1
+515,2024-12-20,Hip Thrust (Barbell),30.0,6.0,,hip thrust,36,0,1
 516,2025-01-02,Bench Press (Barbell),26.0,6.0,,pecs,31,0,1
 517,2025-01-02,Bench Press (Barbell),30.0,2.0,,pecs,32,0,1
 518,2025-01-02,Bench Press (Barbell),40.0,1.0,,pecs,41,0,1
@@ -571,11 +571,11 @@
 569,2025-01-14,Preacher Curl (Barbell),12.5,9.0,,biceps,16,0,1
 570,2025-01-14,Preacher Curl (Barbell),10.0,12.0,,biceps,14,0,1
 571,2025-01-14,Preacher Curl (Barbell),10.0,17.0,,biceps,16,0,1
-572,2025-01-15,Hip Thrust (Barbell),28.0,8.0,,glutes,35,0,1
-573,2025-01-15,Hip Thrust (Barbell),30.0,8.0,,glutes,38,0,1
-574,2025-01-15,Hip Thrust (Barbell),32.0,5.0,,glutes,37,0,1
-575,2025-01-15,Hip Thrust (Barbell),34.0,5.0,,glutes,40,0,1
-576,2025-01-15,Hip Thrust (Barbell),36.0,4.0,,glutes,41,0,1
+572,2025-01-15,Hip Thrust (Barbell),28.0,8.0,,hip thrust,35,0,1
+573,2025-01-15,Hip Thrust (Barbell),30.0,8.0,,hip thrust,38,0,1
+574,2025-01-15,Hip Thrust (Barbell),32.0,5.0,,hip thrust,37,0,1
+575,2025-01-15,Hip Thrust (Barbell),34.0,5.0,,hip thrust,40,0,1
+576,2025-01-15,Hip Thrust (Barbell),36.0,4.0,,hip thrust,41,0,1
 577,2025-01-17,Lateral Raise (Dumbbell),4.0,15.0,,delts,6,0,0
 578,2025-01-17,Lateral Raise (Dumbbell),4.0,12.0,,delts,6,0,0
 579,2025-01-17,Lateral Raise (Dumbbell),4.0,10.0,,delts,5,0,0
@@ -594,10 +594,10 @@
 592,2025-01-23,Preacher Curl (Barbell),12.5,16.0,,biceps,19,0,1
 593,2025-01-23,Preacher Curl (Barbell),10.0,17.0,,biceps,16,0,1
 594,2025-01-23,Preacher Curl (Barbell),10.0,13.0,,biceps,14,0,1
-595,2025-01-23,Hip Thrust (Barbell),30.0,8.0,,glutes,38,0,1
-596,2025-01-23,Hip Thrust (Barbell),35.0,8.0,,glutes,44,0,1
-597,2025-01-23,Hip Thrust (Barbell),40.0,8.0,,glutes,51,0,1
-598,2025-01-23,Hip Thrust (Barbell),42.5,5.0,,glutes,50,0,1
+595,2025-01-23,Hip Thrust (Barbell),30.0,8.0,,hip thrust,38,0,1
+596,2025-01-23,Hip Thrust (Barbell),35.0,8.0,,hip thrust,44,0,1
+597,2025-01-23,Hip Thrust (Barbell),40.0,8.0,,hip thrust,51,0,1
+598,2025-01-23,Hip Thrust (Barbell),42.5,5.0,,hip thrust,50,0,1
 599,2025-01-24,Lateral Raise (Dumbbell),4.0,17.0,,delts,6,0,0
 600,2025-01-24,Lateral Raise (Dumbbell),4.0,15.0,,delts,6,0,0
 601,2025-01-24,Lateral Raise (Dumbbell),4.0,12.0,,delts,6,0,0
@@ -618,10 +618,10 @@
 616,2025-01-29,Triceps Pushdown (Cable - Straight Bar),13.75,12.0,,triceps,19,1,1
 617,2025-01-29,Triceps Pushdown (Cable - Straight Bar),13.75,11.0,,triceps,19,1,1
 618,2025-01-29,Triceps Pushdown (Cable - Straight Bar),13.75,10.0,,triceps,18,1,1
-619,2025-01-30,Hip Thrust (Barbell),40.0,8.0,,glutes,51,0,1
-620,2025-01-30,Hip Thrust (Barbell),42.5,8.0,,glutes,54,0,1
-621,2025-01-30,Hip Thrust (Barbell),45.0,8.0,,glutes,57,0,1
-622,2025-01-30,Hip Thrust (Barbell),47.75,5.0,,glutes,56,0,1
+619,2025-01-30,Hip Thrust (Barbell),40.0,8.0,,hip thrust,51,0,1
+620,2025-01-30,Hip Thrust (Barbell),42.5,8.0,,hip thrust,54,0,1
+621,2025-01-30,Hip Thrust (Barbell),45.0,8.0,,hip thrust,57,0,1
+622,2025-01-30,Hip Thrust (Barbell),47.75,5.0,,hip thrust,56,0,1
 623,2025-01-30,Lateral Raise (Dumbbell),4.0,15.0,,delts,6,0,0
 624,2025-01-30,Lateral Raise (Dumbbell),4.0,12.0,,delts,6,0,0
 625,2025-01-30,Lateral Raise (Dumbbell),4.0,11.0,,delts,5,0,0
@@ -629,7 +629,7 @@
 627,2025-01-30,Chest Press (Machine),27.75,14.0,,pecs,41,1,1
 628,2025-01-30,Chest Press (Machine),27.75,8.0,,pecs,35,1,1
 629,2025-01-30,Chest Press (Machine),25.0,9.0,,pecs,32,1,1
-630,2025-02-03,Hip Thrust (Barbell),40.0,8.0,,glutes,51,0,1
+630,2025-02-03,Hip Thrust (Barbell),40.0,8.0,,hip thrust,51,0,1
 631,2025-02-04,Lat Pulldown (Cable),33.0,18.0,,lats,53,1,1
 632,2025-02-04,Lat Pulldown (Cable),33.0,13.0,,lats,47,1,1
 633,2025-02-04,Lat Pulldown (Cable),33.0,12.0,,lats,46,1,1
