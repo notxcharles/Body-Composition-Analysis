@@ -5,7 +5,8 @@ I've got data that contains my nutritional macros, body weight and composition, 
 Potential hypotheses:
 - Eating in a calorie surplus means more muscle growth
 - Exercising doesn't burn any additional calories
-  -  
+  - H0: exercise has no effect on body weight change 
+  - H1: exercise has an effect on body weight change
   - It is my hypothesis that exercise doesn't burn any calories beyond the base rate
     - Eg: If I need 3000 calories per day to maintain my weight, doing exercise to burn 500 calories won't result in a net calorie deficit
       - In this scenario, if exercising did burn calories, I would expect the net calories for the day to be 2500
