@@ -5,6 +5,7 @@ I've got data that contains my nutritional macros, body weight and composition, 
 Potential hypotheses:
 - Eating in a calorie surplus means more muscle growth
 - Exercising doesn't burn any additional calories
+  -  
   - It is my hypothesis that exercise doesn't burn any calories beyond the base rate
     - Eg: If I need 3000 calories per day to maintain my weight, doing exercise to burn 500 calories won't result in a net calorie deficit
       - In this scenario, if exercising did burn calories, I would expect the net calories for the day to be 2500
@@ -18,6 +19,7 @@ I've logged what I have eaten each day with a high degree of accuracy.
 ##### Body Weight
 I have tracked my body weight, BMI, Body Fat %, Muscle %, Visceral Fat % and RMI using Omron's BF508.
 - All of these stats are estimated, however I have used the same set of scales throughout. Some data is missing, which I will fill with estimated values
+- There is a significant amount of missing data between May 2022 and May 2023. This was because I lacked the strength to be able to balance and remain stable enough on the scales for long enough for them to measure my body composition
 
 ##### Exercise Information
 Apple Health - All recorded workout data will be in Apple Health<br>
