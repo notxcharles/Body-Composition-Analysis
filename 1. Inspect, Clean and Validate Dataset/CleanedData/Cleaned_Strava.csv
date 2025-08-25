@@ -1,925 +1,925 @@
-Activity Date,Activity Name,Activity Type,Distance,Calories
-2020-06-03,Evening Run,Run,5.42,
-2020-06-07,Evening Run,Run,5.3,
-2020-06-15,Evening Run,Run,5.23,
-2020-06-16,Evening Run,Run,5.29,
-2020-06-21,Evening Run,Run,6.57,
-2020-06-27,Evening Run,Run,5.26,
-2020-06-30,Evening Run,Run,6.51,
-2020-07-06,Evening Run,Run,5.42,
-2020-07-10,Evening Run,Run,5.24,
-2020-07-15,Evening Run,Run,5.43,
-2020-07-20,Evening Run,Run,5.4,
-2020-07-26,Night Run,Run,5.21,
-2020-07-23,Night Run,Run,8.11,
-2020-08-03,Evening Run,Run,5.19,
-2020-08-09,Evening Run,Run,6.5,
-2020-08-11,Night Run,Run,5.46,
-2020-08-13,Evening Run,Run,5.23,
-2020-08-15,Night Run,Run,5.14,
-2020-08-20,Evening Run,Run,5.19,
-2020-08-23,Evening Run,Run,5.23,
-2020-08-25,Evening Run,Run,5.21,
-2020-08-30,Evening Run,Run,5.17,
-2020-09-08,Evening Run,Run,5.13,
-2020-09-02,Evening Run,Run,5.29,
-2020-09-06,Evening Run,Run,5.16,
-2020-09-13,Evening Run,Run,5.23,
-2020-09-10,Evening Run,Run,5.23,
-2020-09-15,Evening Run,Run,10.96,
-2020-09-26,Afternoon Run,Run,3.87,
-2020-09-28,Evening Run,Run,3.0,
-2020-10-01,Evening Run,Run,5.0,
-2020-10-08,Afternoon Run,Run,4.84,
-2020-10-25,Afternoon Run,Run,5.12,
-2021-02-04,Night Walk,Walk,0.27,
-2021-02-06,Night Walk,Walk,0.32,
-2021-02-07,Night Walk,Walk,0.84,
-2021-06-19,Afternoon Run,Run,3.52,596.0
-2021-07-01,Afternoon Run,Run,3.89,
-2021-06-29,Afternoon Run,Run,2.2,
-2021-06-26,Afternoon Run,Run,5.22,
-2021-07-16,Best Run Yet,Run,1.8,
-2022-03-23,Afternoon Walk,Walk,1.89,
-2022-03-26,Afternoon Walk,Walk,2.31,
-2022-04-09,Afternoon Run,Virtual Run,0.93,
-2022-04-11,Morning Run,Run,1.9,
-2022-04-13,Afternoon Walk,Walk,0.54,
-2022-10-04,Evening Walk,Walk,0.32,
-2022-10-07,Evening Walk,Walk,0.31,
-2022-10-14,Afternoon Walk,Walk,0.15,
-2022-10-16,Afternoon Walk,Walk,0.29,
-2022-10-21,Afternoon Walk,Walk,0.28,
-2022-10-24,Evening Walk,Walk,0.29,
-2022-10-26,Afternoon Walk,Walk,0.38,
-2022-11-01,Afternoon Walk,Walk,0.38,
-2022-11-04,Afternoon Walk,Walk,0.3,
-2022-11-10,Afternoon Walk,Walk,1.2,
-2022-11-14,Afternoon Walk,Walk,0.78,
-2023-02-10,Afternoon Walk,Walk,0.19,
-2023-05-22,Evening Workout,Workout,0.0,281.0
-2023-05-23,Evening Workout,Workout,0.0,179.0
-2023-05-27,Afternoon Run,Run,0.55,43.0
-2023-05-24,Evening Workout,Workout,0.0,106.0
-2023-05-26,Afternoon Workout,Workout,0.0,163.0
-2023-05-20,Afternoon Run,Run,0.67,62.0
-2023-05-17,Lunch Workout,Workout,0.0,102.0
-2023-05-16,Evening Workout,Workout,0.0,249.0
-2023-05-15,Evening Workout,Workout,0.0,289.0
-2023-05-11,Afternoon Workout,Workout,0.0,151.0
-2023-05-12,Afternoon Run,Run,0.99,51.0
-2023-05-04,Afternoon Workout,Workout,0.0,132.0
-2023-05-02,Afternoon Workout,Workout,0.0,175.0
-2023-05-03,Lunch Workout,Workout,0.0,59.0
-2023-05-05,Afternoon Walk,Walk,1.23,83.0
-2023-05-29,Afternoon Workout,Workout,0.0,89.0
-2023-05-29,Afternoon Workout,Workout,0.0,95.0
-2023-05-30,Afternoon Workout,Workout,0.0,84.0
-2023-05-31,Afternoon Workout,Workout,0.0,120.0
-2023-05-31,Afternoon Run,Run,0.16,6.0
-2023-06-01,Afternoon Workout,Workout,0.0,100.0
-2023-06-01,Afternoon Workout,Workout,0.0,118.0
-2023-06-02,Evening Run,Run,0.97,33.0
-2023-06-05,Afternoon Walk,Walk,0.83,39.0
-2023-06-05,Afternoon Workout,Workout,0.0,7.0
-2023-06-05,Evening Workout,Workout,0.0,103.0
-2023-06-06,Afternoon Workout,Workout,0.0,80.0
-2023-06-06,Afternoon Workout,Workout,0.0,65.0
-2023-06-06,Afternoon Run,Run,0.33,17.0
-2023-06-07,Lunch Workout,Workout,0.0,326.0
-2023-06-07,Afternoon Workout,Workout,0.0,99.0
-2023-06-08,Afternoon Workout,Workout,0.0,160.0
-2023-06-09,Afternoon Walk,Walk,1.79,129.0
-2023-06-10,Afternoon Walk,Walk,0.27,19.0
-2023-06-12,Evening Workout,Workout,0.0,183.0
-2023-06-13,Evening Walk,Walk,0.84,51.0
-2023-06-14,Night Workout,Workout,0.0,81.0
-2023-06-14,Night Workout,Workout,0.0,86.0
-2023-06-15,Afternoon Workout,Workout,0.0,105.0
-2023-06-16,Evening Workout,Workout,0.0,245.0
-2023-06-17,Lunch Walk,Walk,0.74,46.0
-2023-06-20,Lunch Workout,Workout,0.0,45.0
-2023-06-20,Afternoon Workout,Workout,0.0,64.0
-2023-06-20,Afternoon Workout,Workout,0.0,55.0
-2023-06-20,Afternoon Workout,Workout,0.0,166.0
-2023-06-20,Afternoon Walk,Walk,0.47,34.0
-2023-06-21,Afternoon Walk,Walk,0.35,25.0
-2023-06-24,Lunch Walk,Walk,0.34,17.0
-2023-06-24,Lunch Walk,Walk,0.32,18.0
-2023-06-26,Evening Walk,Walk,1.58,92.0
-2023-06-28,Lunch Workout,Workout,0.0,197.0
-2023-06-28,Afternoon Walk,Walk,0.46,21.0
-2023-06-29,Afternoon Walk,Walk,0.15,18.0
-2023-07-04,Afternoon Workout,Workout,0.0,109.0
-2023-07-05,Afternoon Workout,Workout,0.0,115.0
-2023-07-05,Evening Workout,Workout,0.0,68.0
-2023-07-07,Afternoon Workout,Workout,0.0,94.0
-2023-07-08,Afternoon Workout,Workout,0.0,141.0
-2023-07-09,Evening Walk,Walk,0.71,38.0
-2023-07-10,Afternoon Workout,Workout,0.0,174.0
-2023-07-10,Evening Workout,Workout,0.0,139.0
-2023-07-11,Evening Workout,Workout,0.0,66.0
-2023-07-11,Evening Workout,Workout,0.0,82.0
-2023-07-11,Night Walk,Walk,1.79,107.0
-2023-07-12,Afternoon Walk,Walk,0.44,22.0
-2023-07-12,Evening Workout,Workout,0.0,125.0
-2023-07-13,Afternoon Workout,Workout,0.0,134.0
-2023-07-13,Night Workout,Workout,0.0,71.0
-2023-07-13,Night Walk,Walk,0.35,23.0
-2023-07-17,Afternoon Workout,Workout,0.0,120.0
-2023-07-17,Evening Workout,Workout,0.0,184.0
-2023-07-18,Night Workout,Workout,0.0,77.0
-2023-07-18,Night Workout,Workout,0.0,89.0
-2023-07-19,Lunch Workout,Workout,0.0,140.0
-2023-07-20,Afternoon Workout,Workout,0.0,118.0
-2023-07-20,Afternoon Walk,Walk,0.25,13.0
-2023-07-21,Afternoon Workout,Workout,0.0,163.0
-2023-07-24,Afternoon Walk,Walk,1.14,58.0
-2023-07-24,Evening Workout,Workout,0.0,296.0
-2023-07-25,Afternoon Workout,Workout,0.0,74.0
-2023-07-25,Afternoon Workout,Workout,0.0,56.0
-2023-07-26,Evening Workout,Workout,0.0,79.0
-2023-07-26,Evening Workout,Workout,0.0,102.0
-2023-07-28,Afternoon Workout,Workout,0.0,112.0
-2023-07-29,Afternoon Workout,Workout,0.0,161.0
-2023-08-03,Afternoon Workout,Workout,0.0,210.0
-2023-08-04,Lunch Walk,Walk,0.46,26.0
-2023-08-04,Afternoon Walk,Walk,1.09,57.0
-2023-08-07,Afternoon Workout,Workout,0.0,75.0
-2023-08-07,Evening Workout,Workout,0.0,83.0
-2023-08-08,Afternoon Walk,Walk,1.14,56.0
-2023-08-08,Afternoon Workout,Workout,0.0,142.0
-2023-08-09,Evening Walk,Walk,1.7,118.0
-2023-08-10,Afternoon Workout,Workout,0.0,92.0
-2023-08-11,Evening Workout,Workout,0.0,250.0
-2023-08-13,Lunch Walk,Walk,1.14,63.0
-2023-08-13,Evening Walk,Walk,1.76,69.0
-2023-08-14,Evening Walk,Walk,0.61,27.0
-2023-08-14,Night Walk,Walk,0.57,38.0
-2023-08-15,Lunch Walk,Walk,0.68,32.0
-2023-08-15,Lunch Walk,Walk,0.91,44.0
-2023-08-15,Evening Workout,Workout,0.0,159.0
-2023-08-17,Evening Workout,Workout,0.0,195.0
-2023-08-18,Evening Walk,Walk,0.4,19.0
-2023-08-19,Afternoon Workout,Workout,0.0,123.0
-2023-08-19,Evening Walk,Walk,1.94,114.0
-2023-08-20,Afternoon Workout,Workout,0.0,189.0
-2023-08-20,Afternoon Walk,Walk,0.12,9.0
-2023-08-22,Afternoon Walk,Walk,0.69,
-2023-08-22,Evening Workout,Workout,0.0,226.0
-2023-08-23,Afternoon Workout,Workout,0.0,138.0
-2023-08-24,Afternoon Workout,Workout,0.0,124.0
-2023-08-24,Evening Walk,Walk,1.81,
-2023-08-25,Evening Walk,Walk,1.31,
-2023-08-26,Afternoon Workout,Workout,0.0,142.0
-2023-08-27,Lunch Walk,Walk,2.04,93.0
-2023-08-28,Evening Workout,Workout,0.0,87.0
-2023-08-30,Afternoon Workout,Workout,0.0,73.0
-2023-08-30,Afternoon Workout,Workout,0.0,121.0
-2023-08-31,Afternoon Walk,Walk,1.83,
-2023-09-01,Afternoon Workout,Workout,0.0,98.0
-2023-09-01,Evening Walk,Walk,1.72,
-2023-09-02,Afternoon Walk,Walk,1.74,
-2023-09-02,Afternoon Workout,Workout,0.0,163.0
-2023-09-03,Afternoon Walk,Walk,1.39,
-2023-09-03,Evening Walk,Walk,0.97,
-2023-09-04,Afternoon Walk,Walk,2.03,
-2023-09-04,Afternoon Workout,Workout,0.0,193.0
-2023-09-05,Afternoon Walk,Walk,2.32,
-2023-09-06,Afternoon Workout,Workout,0.0,205.0
-2023-09-06,Evening Walk,Walk,1.88,
-2023-09-07,Evening Walk,Walk,1.65,
-2023-09-11,Night Walk,Walk,0.73,
-2023-09-13,Afternoon Workout,Workout,0.0,120.0
-2023-09-12,Afternoon Workout,Workout,0.0,115.0
-2023-09-13,Night Walk,Walk,0.63,310.0
-2023-09-14,Evening Workout,Workout,0.0,191.0
-2023-09-15,Afternoon Walk,Walk,1.13,70.0
-2023-09-15,Evening Workout,Workout,0.0,219.0
-2023-09-17,Afternoon Walk,Walk,1.12,69.0
-2023-09-18,Night Workout,Workout,0.0,128.0
-2023-09-19,Evening Workout,Workout,0.0,196.0
-2023-09-20,Evening Workout,Workout,0.0,155.0
-2023-09-23,Lunch Walk,Walk,0.79,40.0
-2023-09-25,Evening Workout,Workout,0.0,199.0
-2023-09-26,Night Workout,Workout,0.0,85.0
-2023-10-02,Afternoon Walk,Walk,0.27,103.0
-2023-10-07,Afternoon Walk,Walk,0.8,53.0
-2023-10-17,Afternoon Walk,Walk,1.56,76.0
-2023-10-18,Afternoon Walk,Walk,0.66,41.0
-2023-10-22,Afternoon Walk,Walk,0.34,148.0
-2023-10-23,Lunch Walk,Walk,0.82,149.0
-2023-10-23,Afternoon Workout,Workout,0.0,229.0
-2023-10-24,Afternoon Workout,Workout,0.0,191.0
-2023-10-24,Night Walk,Walk,0.17,32.0
-2023-10-26,Evening Workout,Workout,0.0,269.0
-2023-10-27,Afternoon Workout,Workout,0.0,237.0
-2023-10-29,Afternoon Walk,Walk,0.42,82.0
-2023-10-30,Afternoon Workout,Workout,0.0,255.0
-2023-10-31,Evening Workout,Workout,0.0,327.0
-2023-11-02,Afternoon Workout,Workout,0.0,311.0
-2023-11-03,Afternoon Walk,Walk,0.77,220.0
-2023-11-03,Afternoon Workout,Workout,0.0,377.0
-2023-11-06,Afternoon Workout,Workout,0.0,371.0
-2023-11-07,Evening Workout,Workout,0.0,290.0
-2023-11-09,Evening Workout,Workout,0.0,401.0
-2023-11-10,Lunch Workout,Workout,0.0,164.0
-2023-11-13,Afternoon Workout,Workout,0.0,485.0
-2023-11-14,Evening Workout,Workout,0.0,234.0
-2023-11-17,Afternoon Workout,Workout,0.0,163.0
-2023-11-20,Evening Workout,Workout,0.0,260.0
-2023-11-21,Afternoon Workout,Workout,0.0,128.0
-2023-11-23,Afternoon Workout,Workout,0.0,242.0
-2023-11-24,Evening Workout,Workout,0.0,259.0
-2023-11-26,Morning Workout,Workout,0.0,169.0
-2023-11-28,Night Workout,Workout,0.0,313.0
-2023-11-28,Evening Workout,Workout,0.0,256.0
-2023-11-30,Evening Workout,Workout,0.0,280.0
-2023-12-01,Evening Workout,Workout,0.0,264.0
-2023-12-11,Evening Workout,Workout,0.0,195.0
-2023-12-12,Evening Workout,Workout,0.0,344.0
-2023-12-15,Afternoon Workout,Workout,0.0,244.0
-2023-12-16,Evening Workout,Workout,0.0,307.0
-2023-12-18,Afternoon Workout,Workout,0.0,206.0
-2023-12-19,Evening Workout,Workout,0.0,234.0
-2023-12-21,Evening Workout,Workout,0.0,172.0
-2023-12-27,Evening Workout,Workout,0.0,243.0
-2023-12-29,Afternoon Workout,Workout,0.0,260.0
-2023-12-30,Lunch Workout,Workout,0.0,308.0
-2024-01-01,Evening Walk,Walk,1.64,68.0
-2024-01-03,Lunch Workout,Workout,0.0,331.0
-2024-01-04,Lunch Workout,Workout,0.0,280.0
-2024-01-04,Afternoon Walk,Walk,0.63,32.0
-2024-01-04,Afternoon Walk,Walk,2.43,148.0
-2024-01-05,Lunch Walk,Walk,0.82,62.0
-2024-01-05,Evening Workout,Workout,0.0,203.0
-2024-01-06,Evening Walk,Walk,2.11,121.0
-2024-01-06,Lunch Workout,Workout,0.0,335.0
-2024-01-07,Lunch Walk,Walk,0.49,112.0
-2024-01-07,Evening Workout,Workout,0.0,229.0
-2024-01-08,Afternoon Workout,Workout,0.0,356.0
-2024-01-08,Evening Workout,Workout,0.0,301.0
-2024-01-09,Afternoon Walk,Walk,0.58,118.0
-2024-01-09,Evening Workout,Workout,0.0,270.0
-2024-01-10,Morning Workout,Workout,0.0,429.0
-2024-01-10,Evening Workout,Workout,0.0,324.0
-2024-01-11,Afternoon Workout,Workout,0.0,480.0
-2024-01-11,Evening Workout,Workout,0.0,298.0
-2024-01-12,Afternoon Workout,Workout,0.0,337.0
-2024-01-12,Evening Walk,Walk,2.39,107.0
-2024-01-13,Afternoon Workout,Workout,0.0,219.0
-2024-01-13,Evening Workout,Workout,0.0,331.0
-2024-01-14,Lunch Walk,Walk,2.66,343.0
-2024-01-14,Afternoon Workout,Workout,0.0,356.0
-2024-01-15,Afternoon Workout,Workout,0.0,222.0
-2024-01-15,Evening Workout,Workout,0.0,358.0
-2024-01-16,Afternoon Walk,Walk,0.0,
-2024-01-16,Evening Workout,Workout,0.0,397.0
-2024-01-17,Lunch Workout,Workout,0.0,403.0
-2024-01-17,Night Walk,Walk,0.4,79.0
-2024-01-18,Afternoon Walk,Walk,2.36,124.0
-2024-01-18,Evening Workout,Workout,0.0,347.0
-2024-01-19,Afternoon Workout,Workout,0.0,236.0
-2024-01-19,Evening Workout,Workout,0.0,333.0
-2024-01-20,Afternoon Workout,Workout,0.0,322.0
-2024-01-20,Afternoon Workout,Workout,0.0,211.0
-2024-01-21,Afternoon Workout,Workout,0.0,205.0
-2024-01-21,Evening Workout,Workout,0.0,284.0
-2024-01-22,Afternoon Workout,Workout,0.0,345.0
-2024-01-22,Evening Workout,Workout,0.0,403.0
-2024-01-23,Afternoon Workout,Workout,0.0,302.0
-2024-01-23,Evening Workout,Workout,0.0,240.0
-2024-01-24,Lunch Workout,Workout,0.0,328.0
-2024-01-24,Afternoon Walk,Walk,2.15,135.0
-2024-01-25,Afternoon Workout,Workout,0.0,213.0
-2024-01-25,Evening Workout,Workout,0.0,329.0
-2024-01-26,Afternoon Workout,Workout,0.0,275.0
-2024-01-26,Afternoon Run,Run,0.0,
-2024-01-27,Afternoon Workout,Workout,0.0,388.0
-2024-01-27,Evening Workout,Workout,0.0,234.0
-2024-01-28,Afternoon Workout,Workout,0.0,332.0
-2024-01-28,Evening Workout,Workout,0.0,287.0
-2024-01-29,Afternoon Workout,Workout,0.0,
-2024-01-29,Evening Workout,Workout,0.0,269.0
-2024-01-30,Afternoon Workout,Workout,0.0,365.0
-2024-01-30,Evening Workout,Workout,0.0,284.0
-2024-01-31,Lunch Workout,Workout,0.0,359.0
-2024-01-31,Afternoon Walk,Walk,2.07,122.0
-2024-02-01,Lunch Workout,Workout,0.0,458.0
-2024-02-01,Evening Workout,Workout,0.0,348.0
-2024-02-02,Afternoon Workout,Workout,0.0,290.0
-2024-02-02,Evening Workout,Workout,0.0,414.0
-2024-02-03,Afternoon Workout,Workout,0.0,355.0
-2024-02-03,Evening Workout,Workout,0.0,271.0
-2024-02-04,Afternoon Walk,Walk,2.37,117.0
-2024-02-04,Evening Workout,Workout,0.0,263.0
-2024-02-05,Lunch Workout,Workout,0.0,399.0
-2024-02-05,Evening Workout,Workout,0.0,194.0
-2024-02-06,Afternoon Workout,Workout,0.0,189.0
-2024-02-06,Evening Workout,Workout,0.0,224.0
-2024-02-07,Lunch Workout,Workout,0.0,216.0
-2024-02-07,Evening Workout,Workout,0.0,245.0
-2024-02-08,Afternoon Workout,Workout,0.0,314.0
-2024-02-08,Evening Workout,Workout,0.0,236.0
-2024-02-09,Lunch Workout,Workout,0.0,274.0
-2024-02-09,Evening Workout,Workout,0.0,260.0
-2024-02-10,Afternoon Workout,Workout,0.0,251.0
-2024-02-10,Evening Workout,Workout,0.0,262.0
-2024-02-11,Afternoon Workout,Workout,0.0,223.0
-2024-02-11,Evening Walk,Workout,0.0,556.0
-2024-02-12,Afternoon Walk,Walk,2.09,124.0
-2024-02-12,Afternoon Workout,Workout,0.0,293.0
-2024-02-13,Afternoon Walk,Walk,1.9,116.0
-2024-02-13,Evening Workout,Workout,0.0,390.0
-2024-02-14,Lunch Workout,Workout,0.0,851.0
-2024-02-14,Afternoon Workout,Workout,0.0,250.0
-2024-02-15,Afternoon Workout,Workout,0.0,298.0
-2024-02-15,Evening Workout,Workout,0.0,234.0
-2024-02-16,Lunch Workout,Workout,0.0,230.0
-2024-02-16,Afternoon Workout,Workout,0.0,222.0
-2024-02-17,Afternoon Workout,Workout,0.0,218.0
-2024-02-17,Evening Workout,Workout,0.0,294.0
-2024-02-18,Evening Workout,Workout,0.0,308.0
-2024-02-19,Afternoon Workout,Workout,0.0,227.0
-2024-02-18,Afternoon Workout,Workout,0.0,247.0
-2024-02-19,Afternoon Workout,Workout,0.0,194.0
-2024-02-20,Afternoon Workout,Workout,0.0,207.0
-2024-02-20,Afternoon Workout,Workout,0.0,221.0
-2024-02-21,Lunch Workout,Workout,0.0,374.0
-2024-02-21,Afternoon Workout,Workout,0.0,318.0
-2024-02-22,Afternoon Workout,Workout,0.0,237.0
-2024-02-22,Afternoon Workout,Workout,0.0,246.0
-2024-02-23,Afternoon Workout,Workout,0.0,285.0
-2024-02-23,Afternoon Workout,Workout,0.0,293.0
-2024-02-24,Afternoon Workout,Workout,0.0,372.0
-2024-02-24,Evening Workout,Workout,0.0,175.0
-2024-02-25,Afternoon Workout,Workout,0.0,208.0
-2024-02-25,Evening Workout,Workout,0.0,284.0
-2024-02-26,Lunch Workout,Workout,0.0,271.0
-2024-02-26,Evening Workout,Workout,0.0,246.0
-2024-02-27,Afternoon Workout,Workout,0.0,207.0
-2024-02-27,Afternoon Workout,Workout,0.0,252.0
-2024-02-28,Lunch Workout,Workout,0.0,
-2024-02-28,Evening Workout,Workout,0.0,373.0
-2024-02-29,Afternoon Workout,Workout,0.0,278.0
-2024-02-29,Afternoon Workout,Workout,0.0,188.0
-2024-03-01,Lunch Workout,Workout,0.0,210.0
-2024-03-01,Evening Workout,Workout,0.0,262.0
-2024-03-02,Afternoon Workout,Workout,0.0,310.0
-2024-03-02,Afternoon Workout,Workout,0.0,306.0
-2024-03-03,Afternoon Workout,Workout,0.0,245.0
-2024-03-04,Lunch Workout,Workout,0.0,289.0
-2024-03-04,Evening Workout,Workout,0.0,337.0
-2024-03-05,Afternoon Walk,Walk,2.08,113.0
-2024-03-06,Lunch Run,Run,0.0,
-2024-03-06,Lunch Walk,Walk,0.63,24.0
-2024-03-06,Afternoon Workout,Workout,0.0,332.0
-2024-03-07,Lunch Workout,Workout,0.0,181.0
-2024-03-07,Evening Workout,Workout,0.0,247.0
-2024-03-08,Lunch Workout,Workout,0.0,222.0
-2024-03-08,Night Workout,Workout,0.0,283.0
-2024-03-09,Afternoon Workout,Workout,0.0,246.0
-2024-03-09,Evening Workout,Workout,0.0,268.0
-2024-03-10,Lunch Workout,Workout,0.0,183.0
-2024-03-10,Afternoon Workout,Workout,0.0,199.0
-2024-03-11,Afternoon Workout,Workout,0.0,269.0
-2024-03-12,Afternoon Workout,Workout,0.0,233.0
-2024-03-11,Afternoon Workout,Workout,0.0,304.0
-2024-03-12,Afternoon Workout,Workout,0.0,246.0
-2024-03-13,Afternoon Workout,Workout,0.0,219.0
-2024-03-13,Afternoon Workout,Workout,0.0,237.0
-2024-03-14,Afternoon Workout,Workout,0.0,250.0
-2024-03-14,Afternoon Workout,Workout,0.0,295.0
-2024-03-15,Afternoon Workout,Workout,0.0,198.0
-2024-03-15,Evening Workout,Workout,0.0,216.0
-2024-03-16,Afternoon Workout,Workout,0.0,1081.0
-2024-03-16,Evening Workout,Workout,0.0,406.0
-2024-03-17,Afternoon Workout,Workout,0.0,212.0
-2024-03-17,Afternoon Walk,Walk,2.32,125.0
-2024-03-18,Afternoon Workout,Workout,0.0,
-2024-03-18,Afternoon Workout,Workout,0.0,217.0
-2024-03-19,Afternoon Workout,Workout,0.0,280.0
-2024-03-20,Morning Workout,Workout,0.0,341.0
-2024-03-21,Afternoon Workout,Workout,0.0,156.0
-2024-03-21,Evening Walk,Walk,1.18,65.0
-2024-03-22,Afternoon Workout,Workout,0.0,180.0
-2024-03-23,Afternoon Workout,Workout,0.0,221.0
-2024-03-24,Evening Walk,Walk,1.01,195.0
-2024-03-25,Afternoon Workout,Workout,0.0,191.0
-2024-03-27,Lunch Workout,Workout,0.0,154.0
-2024-03-28,Lunch Workout,Workout,0.0,
-2024-03-28,Evening Workout,Workout,0.0,367.0
-2024-03-29,Lunch Workout,Workout,0.0,236.0
-2024-03-26,Lunch Workout,Workout,0.0,203.0
-2024-03-30,Evening Workout,Workout,0.0,248.0
-2024-03-31,Evening Workout,Workout,0.0,286.0
-2024-04-01,Evening Walk,Walk,5.6,288.0
-2024-04-02,Evening Workout,Workout,0.0,119.0
-2024-04-03,Morning Workout,Workout,0.0,389.0
-2024-04-04,Afternoon Workout,Workout,0.0,287.0
-2024-04-04,Evening Workout,Workout,0.0,272.0
-2024-04-05,Evening Workout,Workout,0.0,320.0
-2024-04-06,Evening Workout,Workout,0.0,263.0
-2024-04-07,Evening Workout,Workout,0.0,230.0
-2024-04-08,Evening Workout,Workout,0.0,202.0
-2024-04-09,Evening Workout,Workout,0.0,317.0
-2024-04-10,Morning Workout,Workout,0.0,384.0
-2024-04-10,Afternoon Walk,Walk,1.38,86.0
-2024-04-11,Lunch Workout,Workout,0.0,
-2024-04-11,Evening Workout,Workout,0.0,349.0
-2024-04-12,Evening Workout,Workout,0.0,315.0
-2024-04-13,Morning Workout,Workout,0.0,1676.0
-2024-04-14,Evening Walk,Walk,7.41,384.0
-2024-04-15,Evening Workout,Workout,0.0,223.0
-2024-04-16,Evening Workout,Workout,0.0,209.0
-2024-04-17,Morning Workout,Workout,0.0,365.0
-2024-04-18,Evening Workout,Workout,0.0,257.0
-2024-04-19,Lunch Workout,Workout,0.0,330.0
-2024-04-19,Evening Workout,Workout,0.0,374.0
-2024-04-20,Afternoon Walk,Walk,5.17,229.0
-2024-04-21,Evening Workout,Workout,0.0,186.0
-2024-04-22,Afternoon Workout,Workout,0.0,363.0
-2024-04-22,Night Workout,Workout,0.0,250.0
-2024-04-23,Evening Workout,Workout,0.0,188.0
-2024-04-24,Lunch Workout,Workout,0.0,230.0
-2024-04-24,Afternoon Walk,Walk,0.39,21.0
-2024-04-25,Lunch Workout,Workout,0.0,175.0
-2024-04-25,Night Workout,Workout,0.0,246.0
-2024-04-26,Afternoon Workout,Workout,0.0,267.0
-2024-04-27,Afternoon Workout,Workout,0.0,142.0
-2024-04-28,Afternoon Walk,Walk,1.8,80.0
-2024-04-29,Afternoon Walk,Walk,0.58,22.0
-2024-04-29,Afternoon Workout,Workout,0.0,280.0
-2024-04-30,Evening Workout,Workout,0.0,370.0
-2024-05-01,Afternoon Walk,Walk,1.41,62.0
-2024-05-01,Lunch Workout,Workout,0.0,391.0
-2024-05-01,Evening Walk,Walk,1.82,68.0
-2024-05-02,Afternoon Workout,Workout,0.0,203.0
-2024-05-03,Afternoon Workout,Workout,0.0,223.0
-2024-05-03,Afternoon Workout,Workout,0.0,171.0
-2024-05-04,Evening Walk,Walk,1.75,77.0
-2024-05-07,Afternoon Workout,Workout,0.0,277.0
-2024-05-07,Night Workout,Workout,0.0,372.0
-2024-05-08,Lunch Workout,Workout,0.0,365.0
-2024-05-09,Lunch Workout,Workout,0.0,
-2024-05-09,Afternoon Walk,Walk,1.78,82.0
-2024-05-10,Evening Workout,Workout,0.0,203.0
-2024-05-11,Afternoon Workout,Workout,0.0,294.0
-2024-05-11,Afternoon Walk,Walk,2.22,96.0
-2024-05-12,Afternoon Walk,Walk,0.94,42.0
-2024-05-13,Afternoon Workout,Workout,0.0,229.0
-2024-05-13,Evening Workout,Workout,0.0,336.0
-2024-05-14,Evening Workout,Workout,0.0,278.0
-2024-05-15,Evening Walk,Walk,5.22,225.0
-2024-05-16,Evening Workout,Workout,0.0,222.0
-2024-05-18,Evening Workout,Workout,0.0,289.0
-2024-05-19,Afternoon Walk,Walk,1.74,76.0
-2024-05-20,Afternoon Workout,Workout,0.0,309.0
-2024-05-21,Afternoon Workout,Workout,0.0,198.0
-2024-05-22,Lunch Workout,Workout,0.0,278.0
-2024-05-23,Lunch Workout,Workout,0.0,
-2024-05-23,Evening Workout,Workout,0.0,252.0
-2024-05-25,Afternoon Workout,Workout,0.0,318.0
-2024-05-25,Afternoon Walk,Walk,1.79,98.0
-2024-05-26,Evening Walk,Walk,5.18,171.0
-2024-05-27,Afternoon Workout,Workout,0.0,273.0
-2024-05-28,Lunch Workout,Workout,0.0,147.0
-2024-05-29,Lunch Workout,Workout,0.0,342.0
-2024-05-30,Lunch Workout,Workout,0.0,256.0
-2024-05-31,Afternoon Workout,Workout,0.0,331.0
-2024-06-01,Afternoon Walk,Walk,1.8,82.0
-2024-06-02,Afternoon Walk,Walk,0.64,24.0
-2024-06-03,Afternoon Workout,Workout,0.0,262.0
-2024-06-04,Afternoon Workout,Workout,0.0,262.0
-2024-06-05,Lunch Workout,Workout,0.0,257.0
-2024-06-05,Evening Walk,Walk,1.76,75.0
-2024-06-06,Afternoon Workout,Workout,0.0,346.0
-2024-06-07,Lunch Workout,Workout,0.0,277.0
-2024-06-08,Evening Walk,Walk,1.93,116.0
-2024-06-10,Lunch Workout,Workout,0.0,274.0
-2024-06-11,Afternoon Workout,Workout,0.0,230.0
-2024-06-11,Evening Walk,Walk,5.16,222.0
-2024-06-12,Lunch Workout,Workout,0.0,328.0
-2024-06-12,Afternoon Walk,Walk,1.78,79.0
-2024-06-13,Afternoon Workout,Workout,0.0,340.0
-2024-06-14,Afternoon Workout,Workout,0.0,373.0
-2024-06-15,Evening Walk,Walk,0.16,9.0
-2024-06-15,Evening Walk,Walk,1.76,83.0
-2024-06-17,Afternoon Workout,Workout,0.0,354.0
-2024-06-18,Afternoon Workout,Workout,0.0,230.0
-2024-06-19,Physiotherapy,Workout,0.0,
-2024-06-20,"Back, Chest, Biceps",Workout,0.0,297.0
-2024-06-21,"Bicep, Triceps, Shoulders",Workout,0.0,351.0
-2024-06-21,Evening Walk,Walk,1.78,114.0
-2024-06-22,Afternoon Walk,Walk,1.79,81.0
-2024-06-23,Afternoon Walk,Walk,2.47,98.0
-2024-06-24,Afternoon Walk,Walk,4.92,227.0
-2024-06-26,Physiotherapy,Workout,0.0,433.0
-2024-06-28,Afternoon Walk,Walk,2.45,106.0
-2024-06-29,Lunch Walk,Walk,1.32,78.0
-2024-06-29,Evening Walk,Walk,1.78,77.0
-2024-06-30,Evening Walk,Walk,1.43,83.0
-2024-07-01,Lunch Workout,Workout,0.0,247.0
-2024-07-01,"Back, Triceps and Shoulders",Workout,0.0,297.0
-2024-07-02,Chest and Biceps,Workout,0.0,212.0
-2024-07-03,Lunch Workout,Workout,0.0,384.0
-2024-07-04,Lunch Walk,Walk,1.61,70.0
-2024-07-04,"Back, triceps, shoulders",Workout,0.0,359.0
-2024-07-04,Evening Walk,Walk,1.79,106.0
-2024-07-05,Physio home exercises,Workout,0.0,146.0
-2024-07-05,Chest,Workout,0.0,116.0
-2024-07-06,Afternoon Walk,Walk,1.81,111.0
-2024-07-06,Biceps,Workout,0.0,138.0
-2024-07-07,Physio Home Exercises,Workout,0.0,244.0
-2024-07-08,"Back, Tricep and Shoulders",Workout,0.0,304.0
-2024-07-08,Evening Walk,Walk,1.76,105.0
-2024-07-09,Chest and Biceps,Workout,0.0,190.0
-2024-07-10,Physiotherapy,Run,0.0,
-2024-07-10,Afternoon Walk,Walk,0.56,27.0
-2024-07-11,Afternoon Walk,Walk,1.93,121.0
-2024-07-11,"Chest, shoulders, triceps, legs",Workout,0.0,409.0
-2024-07-11,Evening Swim,Swim,0.0,39.0
-2024-07-12,Afternoon Walk,Walk,5.21,240.0
-2024-07-13,Back and Biceps,Workout,0.0,108.0
-2024-07-14,Afternoon Walk,Walk,0.61,26.0
-2024-07-14,Night Walk,Walk,1.01,39.0
-2024-07-15,Physio Home Exercises,Workout,0.0,
-2024-07-15,"Back, Triceps, Shoulders",Workout,0.0,208.0
-2024-07-16,Afternoon Walk,Walk,1.36,64.0
-2024-07-16,"Chest, Biceps, Back",Workout,0.0,252.0
-2024-07-16,Evening Walk,Walk,1.8,115.0
-2024-07-17,Physiotherapy,Workout,0.0,367.0
-2024-07-18,"Back, Triceps, Shoulders",Workout,0.0,245.0
-2024-07-18,Evening Walk,Walk,2.4,108.0
-2024-07-19,"Chest, Biceps, Back",Workout,0.0,241.0
-2024-07-20,Afternoon Walk,Walk,1.78,81.0
-2024-07-21,Physiotherapy Home Exercises,Workout,0.0,220.0
-2024-07-21,Afternoon Workout,Workout,0.0,89.0
-2024-07-22,Back Biceps and Shoulders,Workout,0.0,233.0
-2024-07-23,Lunch Walk,Walk,2.44,110.0
-2024-07-23,Chest Biceps Back,Workout,0.0,232.0
-2024-07-24,Physiotherapy,Workout,0.0,430.0
-2024-07-24,Afternoon Walk,Walk,1.33,58.0
-2024-07-24,Afternoon Walk,Walk,1.8,81.0
-2024-07-25,"Back, Triceps, Shoulders",Workout,0.0,234.0
-2024-07-25,Afternoon Walk,Walk,0.48,19.0
-2024-07-25,Legs,Workout,0.0,303.0
-2024-07-26,"Chest, Biceps, Back",Workout,0.0,221.0
-2024-07-26,Evening Walk,Walk,1.78,112.0
-2024-07-27,Evening Walk,Walk,2.45,110.0
-2024-07-28,Evening Workout,Workout,0.0,239.0
-2024-07-29,"Back, triceps, shoulders",Workout,0.0,283.0
-2024-07-29,Evening Walk,Walk,1.85,112.0
-2024-07-30,Afternoon Walk,Walk,1.38,68.0
-2024-07-30,"Chest, Biceps, Back",Workout,0.0,253.0
-2024-07-31,Physiotherapy,Workout,0.0,234.0
-2024-07-31,Evening Walk,Walk,2.45,108.0
-2024-08-01,Morning Walk,Walk,3.45,160.0
-2024-08-01,"Back, Triceps, Shoulders",Workout,0.0,225.0
-2024-08-02,"Chest, Biceps, Back",Workout,0.0,235.0
-2024-08-03,Afternoon Walk,Walk,1.76,118.0
-2024-08-04,Lunch Walk,Walk,1.76,115.0
-2024-08-04,Legs,Workout,0.0,271.0
-2024-08-04,Afternoon Swim,Swim,0.0,33.0
-2024-08-05,"Back, Triceps, Shoulders",Workout,0.0,229.0
-2024-08-06,"Chest, Biceps, Back",Workout,0.0,229.0
-2024-08-06,Afternoon Walk,Walk,1.53,73.0
-2024-08-06,Legs,Workout,0.0,221.0
-2024-08-07,Physiotherapy,Run,0.0,
-2024-08-07,Afternoon Walk,Walk,1.76,87.0
-2024-08-08,Lunch Walk,Walk,2.46,110.0
-2024-08-08,Back Triceps Shoulders,Workout,0.0,252.0
-2024-08-09,Chest Biceps Back,Workout,0.0,192.0
-2024-08-09,Legs,Workout,0.0,254.0
-2024-08-09,Evening Swim,Swim,0.0,77.0
-2024-08-10,Afternoon Walk,Walk,1.0,38.0
-2024-08-10,Evening Walk,Walk,2.81,130.0
-2024-08-10,Night Walk,Walk,0.59,25.0
-2024-08-11,Afternoon Walk,Walk,1.76,111.0
-2024-08-12,Evening Walk,Walk,3.24,146.0
-2024-08-13,Back. Triceps and Shoulders,Workout,0.0,286.0
-2024-08-13,Afternoon Walk,Walk,0.9,40.0
-2024-08-13,"Chest, Biceps, Legs",Workout,0.0,225.0
-2024-08-14,Physiotherapy,Workout,0.0,316.0
-2024-08-14,Lunch Walk,Walk,0.52,25.0
-2024-08-14,Afternoon Walk,Walk,1.79,96.0
-2024-08-15,"Chest, Biceps, Legs",Workout,0.0,194.0
-2024-08-16,Evening Walk,Walk,1.75,111.0
-2024-08-17,Afternoon Walk,Walk,1.77,117.0
-2024-08-17,"Biceps, Triceps, Shoulders, Legs",Workout,0.0,405.0
-2024-08-18,Lunch Walk,Walk,1.77,102.0
-2024-08-19,"Back, Triceps, Shoulders, Legs",Workout,0.0,377.0
-2024-08-20,"Chest, Biceps, Leg",Workout,0.0,319.0
-2024-08-21,Physiotherapy,Workout,0.0,349.0
-2024-08-21,Afternoon Walk,Walk,2.48,133.0
-2024-08-22,Afternoon Walk,Walk,1.77,104.0
-2024-08-22,"Back, Triceps, Shoulders, Legs, Abs",Workout,0.0,470.0
-2024-08-23,Afternoon Walk,Walk,1.79,123.0
-2024-08-23,"Chest, Biceps, Legs, Abs",Workout,0.0,345.0
-2024-08-24,Lunch Walk,Walk,0.63,31.0
-2024-08-24,Afternoon Walk,Walk,0.99,48.0
-2024-08-24,Afternoon Walk,Walk,0.96,49.0
-2024-08-24,Evening Walk,Walk,0.53,27.0
-2024-08-25,Physio home exercises,Workout,0.0,239.0
-2024-08-25,Afternoon Walk,Walk,2.44,86.0
-2024-08-26,"Back, Triceps, Shoulders, Legs, Abs",Workout,0.0,400.0
-2024-08-26,Evening Walk,Walk,1.76,93.0
-2024-08-27,Afternoon Walk,Walk,0.62,26.0
-2024-08-27,"Chest, Biceps, Legs, Abs",Workout,0.0,360.0
-2024-08-28,Physiotherapy,Run,0.0,
-2024-08-28,Physio Exercises,Workout,0.0,617.0
-2024-08-29,Physio Exercises,Workout,0.0,306.0
-2024-08-29,Evening Workout,Workout,0.0,460.0
-2024-08-31,Physio Home Exercises,Workout,0.0,252.0
-2024-09-01,Evening Walk,Walk,1.77,108.0
-2024-09-02,Lunch Walk,Walk,2.45,136.0
-2024-09-02,"Back, Triceps, Shoulders, Legs, Abs",Workout,0.0,509.0
-2024-09-03,Physio exercises,Workout,0.0,269.0
-2024-09-03,"Chest, Biceps, Legs, Abs",Workout,0.0,384.0
-2024-09-04,Physiotherapy,Workout,0.0,277.0
-2024-09-04,Afternoon Walk,Walk,2.45,135.0
-2024-09-05,Back Triceps Shoulders Legs Abs,Workout,0.0,473.0
-2024-09-06,Evening Run,Run,2.0,
-2024-08-30,"Chest, Biceps, Legs, Abs",Workout,0.0,353.0
-2024-08-30,Physiotherapy,Run,0.0,
-2024-09-07,"Chest, Biceps, Legs, Abs",Workout,0.0,284.0
-2024-09-08,Afternoon Walk,Walk,2.44,133.0
-2024-09-09,Physio Exercises,Workout,0.0,231.0
-2024-09-09,Evening Workout,Workout,0.0,342.0
-2024-09-10,"Chest, Biceps, Legs, Abs",Workout,0.0,307.0
-2024-09-11,Physiotherapy,Workout,0.0,292.0
-2024-09-11,Night Run,Run,1.47,177.0
-2024-09-12,Lunch Walk,Walk,1.11,50.0
-2024-09-12,Back triceps shoulders legs abs,Workout,0.0,230.0
-2024-09-13,Lunch Walk,Walk,0.58,29.0
-2024-09-13,Chest Biceps Legs Abs,Workout,0.0,353.0
-2024-09-14,Evening Workout,Workout,0.0,1383.0
-2024-09-16,Morning Walk,Walk,1.56,62.0
-2024-09-16,Afternoon Walk,Walk,1.44,59.0
-2024-09-17,Morning Walk,Walk,0.68,32.0
-2024-09-19,Gym: Legs,Run,0.0,
-2024-09-22,Physio Exercises,Workout,0.0,212.0
-2024-09-23,Back/Triceps/Shoulders/Abs,Workout,0.0,382.0
-2024-09-24,Chest/Biceps/Abs,Workout,0.0,313.0
-2024-09-24,My First Run with Runna ✅,Run,2.19,
-2024-09-25,Triceps/Shoulders/Back/Calf Stretch,Workout,0.0,423.0
-2024-09-27,Biceps/Chest/abs,Workout,0.0,277.0
-2024-09-27,Gradual Build with Runna ✅,Run,2.64,
-2024-09-29,Easy Effort with Runna ✅,Run,2.62,
-2024-09-30,Back/Triceps/Shoulders,Workout,0.0,291.0
-2024-09-30,Legs,Workout,0.0,234.0
-2024-10-01,Chest/Biceps/Abs,Workout,0.0,229.0
-2024-10-02,Back Triceps Shoulders,Workout,0.0,208.0
-2024-10-04,Night Workout,Workout,0.0,144.0
-2024-10-07,Back/Shoulders/Triceps,Workout,0.0,
-2024-10-08,Chest/Biceps/Abs,Workout,0.0,253.0
-2024-10-10,Back/Triceps/Shoulders,Workout,0.0,259.0
-2024-10-11,Chest/Biceps/Abs,Workout,0.0,230.0
-2024-10-13,Afternoon Walk,Walk,3.94,156.0
-2024-10-15,Back/Shoulders/Triceps,Workout,0.0,279.0
-2024-10-16,Abs/Chest/Biceps,Workout,0.0,234.0
-2024-10-16,Hips/Legs,Workout,0.0,123.0
-2024-10-17,Physiotherapy,Workout,0.0,
-2024-10-17,Triceps/Back/Shoulders,Workout,0.0,298.0
-2024-10-21,Hips/Leg Curl,Workout,0.0,74.0
-2024-10-22,Lunch Workout,Workout,0.0,113.0
-2024-10-22,Afternoon Walk,Walk,1.77,70.0
-2024-10-23,Chest/Biceps/Shoulders,Workout,0.0,279.0
-2024-10-25,Back/Triceps/Shoulders,Workout,0.0,210.0
-2024-10-25,Hips,Workout,0.0,142.0
-2024-10-25,Night Walk,Walk,1.74,82.0
-2024-10-28,Chest/Biceps,Workout,0.0,121.0
-2024-10-28,Hip Adductors,Workout,0.0,63.0
-2024-10-29,Shoulders/Triceps/Hip Abductors,Workout,0.0,259.0
-2024-10-30,Physiotherapy,Workout,0.0,348.0
-2024-10-30,Afternoon Walk,Walk,5.17,221.0
-2024-11-04,My First Run with Runna ✅,Run,2.55,
-2024-11-04,Duplicate,Workout,0.0,283.0
-2024-11-05,Triceps/Back/Shoulders,Workout,0.0,359.0
-2024-11-06,Chest/Biceps,Workout,0.0,258.0
-2024-11-07,Gradual Build with Runna ✅,Run,2.57,
-2024-11-07,Duplicate,Run,2.53,133.0
-2024-11-07,Back/Triceps/Shoulders,Workout,0.0,326.0
-2024-11-08,Bicep/Chest,Workout,0.0,193.0
-2024-11-09,Easy Effort with Runna ✅,Run,2.96,162.0
-2024-11-11,Kicking Off Week 2 with Runna ✅,Run,3.24,167.0
-2024-11-12,Triceps/Back/Shoulders,Workout,0.0,309.0
-2024-11-13,Biceps/Chest,Workout,0.0,172.0
-2024-11-14,Physiotherapy,Workout,0.0,468.0
-2024-11-14,Brisk Walks with Runna ✅,Run,3.69,194.0
-2024-11-16,Conversational Running with Runna ✅,Run,2.54,134.0
-2024-11-18,New Week with Runna ✅,Run,3.21,166.0
-2024-11-18,Triceps/Shoulders/Back,Workout,0.0,
-2024-11-19,Chest/Biceps,Workout,0.0,
-2024-11-20,Stepping It Up with Runna ✅,Run,3.66,193.0
-2024-11-21,Triceps/Shoulders/Back,Workout,0.0,
-2024-11-23,Getting It Done with Runna ✅,Run,3.28,174.0
-2024-11-25,Biceps/Chest,Workout,0.0,178.0
-2024-11-26,Reduced Walking with Runna ✅,Run,3.66,195.0
-2024-11-26,Night Workout,Workout,0.0,390.0
-2024-11-28,Nearly Half Way There with Runna ✅,Run,3.51,179.0
-2024-11-29,Biceps and Chest,Workout,0.0,228.0
-2024-11-30,Longer Reps with Runna ✅,Run,3.95,203.0
-2024-12-03,Biceps/ Chest/ Triceps,Workout,0.0,325.0
-2024-12-03,Over Half Way with Runna ✅,Run,4.6,252.0
-2024-12-04,Pushing The Pace with Runna ✅,Run,3.93,218.0
-2024-12-06,Back Shoulders and Hips,Workout,0.0,300.0
-2024-12-08,Pacing Practice with Runna ✅,Run,4.74,248.0
-2024-12-09,Back/Triceps,Workout,0.0,183.0
-2024-12-11,Biceps/Chest/Hips,Workout,0.0,392.0
-2024-12-10,Save The Speed with Runna ✅,Run,5.9,315.0
-2024-12-13,Night Workout,Workout,0.0,182.0
-2024-12-12,400m Reps with Runna ✅,Run,4.45,222.0
-2024-12-14,Broken 3kms with Runna ✅,Run,4.57,
-2024-12-16,2km Reps with Runna ✅,Run,5.62,311.0
-2024-12-18,Night Walk,Walk,1.34,54.0
-2024-12-18,Night Walk,Walk,4.49,187.0
-2024-12-19,Fast 500s with Runna ✅,Run,6.48,354.0
-2024-12-20,Hips,Workout,0.0,
-2024-12-22,Closer To 5km with Runna ✅,Run,5.85,308.0
-2024-12-25,Last Easy Run with Runna ✅,Run,3.37,189.0
-2024-12-30,Couch to 5k in 48 Months,Run,5.02,278.0
-2025-01-02,Physiotherapy,Workout,0.0,
-2025-01-03,Cheeky run to the bus,Run,1.01,48.0
-2025-01-05,Chest/Biceps,Workout,0.0,249.0
-2025-01-06,4km Easy Run with Runna ✅,Run,4.01,226.0
-2025-01-09,Back/Triceps/Shoulders,Workout,0.0,525.0
-2025-01-11,Physiotherapy,Workout,0.0,367.0
-2025-01-12,Short Run,Run,1.22,70.0
-2025-01-12,Chest/Shoulders,Workout,0.0,155.0
-2025-01-13,Afternoon Walk,Walk,2.8,109.0
-2025-01-14,Back/Triceps/Biceps,Workout,0.0,369.0
-2025-01-14,Brain Surgery to 10k in 4 years (and a day),Run,10.04,515.0
-2025-01-15,Physiotherapy,Workout,0.0,
-2025-01-17,Afternoon Walk,Walk,2.24,91.0
-2025-01-17,Shoulders/Chest,Workout,0.0,225.0
-2025-01-18,Afternoon Walk,Walk,2.63,112.0
-2025-01-18,Sprints,Run,2.51,143.0
-2025-01-19,Afternoon Walk,Walk,2.42,112.0
-2025-01-20,Afternoon Run,Run,2.45,133.0
-2025-01-22,Physiotherapy,Workout,0.0,
-2025-01-23,Biceps/Hips,Workout,0.0,261.0
-2025-01-24,Night Workout,Workout,0.0,171.0
-2025-01-25,Lunch Walk,Walk,2.58,102.0
-2025-01-28,Afternoon Walk,Walk,2.38,100.0
-2025-01-30,Morning Walk,Walk,3.21,165.0
-2025-02-02,I’ve waited 24 years for this day,Run,5.01,262.0
-2025-01-30,Night Workout,Workout,0.0,452.0
-2025-02-02,Afternoon Walk,Walk,2.08,98.0
-2025-02-03,Hips/Biceps/Chest,Workout,0.0,466.0
-2025-02-04,Back/Shoulders/Triceps,Workout,0.0,309.0
-2025-02-06,Morning Walk,Walk,3.15,175.0
-2025-02-05,Physiotherapy,Workout,0.0,
-2025-02-06,Chest/Triceps,Workout,0.0,191.0
-2025-02-07,Afternoon Walk,Walk,1.25,45.0
-2025-02-09,Chest/Triceps,Workout,0.0,233.0
-2025-02-10,Biceps,Workout,0.0,139.0
-2025-02-11,Chest/Shoulders/Triceps,Workout,0.0,
-2025-02-12,Physiotherapy,Workout,0.0,
-2025-02-13,Afternoon Run,Run,5.32,284.0
-2025-02-14,Morning Walk,Walk,2.9,153.0
-2025-02-17,Triceps,Workout,0.0,109.0
-2025-02-19,Chest,Workout,0.0,175.0
-2025-02-20,Physiotherapy,Workout,0.0,
-2025-02-21,Chest Shoulders Biceps,Workout,0.0,108.0
-2025-02-22,Triceps/Back,Run,0.0,
-2025-02-23,Morning Run,Run,5.15,283.0
-2025-02-24,Physio HEP,Workout,0.0,193.0
-2025-02-27,Lunch Walk,Walk,4.56,256.0
-2025-02-27,Chest / Shoulders,Workout,0.0,332.0
-2025-02-28,Morning Run,Run,5.13,281.0
-2025-03-02,Physio HEP,Workout,0.0,250.0
-2025-03-03,Triceps and Biceps,Workout,0.0,343.0
-2025-03-04,Back/Chest/Shoulders,Workout,0.0,
-2025-03-05,Physiotherapy,Run,0.0,
-2025-03-05,Afternoon Run,Run,5.16,270.0
-2025-03-07,Chest/Triceps/Abs,Workout,0.0,327.0
-2025-03-08,Morning Run,Run,5.1,257.0
-2025-03-10,Morning Run,Run,5.1,230.0
-2025-03-13,Chest/Back/Calf Raises,Workout,0.0,
-2025-03-12,Physiotherapy,Workout,0.0,
-2025-03-14,Afternoon Run,Run,5.18,219.0
-2025-03-16,Afternoon Run,Run,1.77,105.0
-2025-03-10,Bicep/Shoulders,Workout,0.0,202.0
-2025-03-19,Physiotherapy,Workout,0.0,
-2025-03-20,Last Run Before The Sun Sets,Run,10.13,
-2025-03-24,Lunch Run,Run,5.12,282.0
-2025-03-24,Shoulders/Chest/Triceps,Workout,0.0,705.0
-2025-03-25,Biceps/Triceps/Chest/Back,Workout,0.0,341.0
-2025-03-26,Physiotherapy,Workout,0.0,
-2025-03-26,Afternoon Run,Run,1.78,104.0
-2025-03-27,Rows,Workout,0.0,
-2025-03-28,Night Workout,Workout,0.0,232.0
-2025-03-29,Afternoon Run,Run,2.32,137.0
-2025-04-04,Lunch Run,Run,5.17,279.0
-2025-04-06,PB: Stage 4 Cancer to Lincoln 10k in 50 Months,Run,10.1,578.0
-2025-04-07,Back and chest,Workout,0.0,210.0
-2025-04-09,Shoulders Triceps and Squats,Workout,0.0,321.0
-2025-04-09,Physiotherapy,Workout,0.0,
-2025-04-02,Physiotherapy,Workout,0.0,
-2025-04-10,Afternoon Walk,Walk,3.31,160.0
-2025-04-11,Biceps and shoulders,Workout,0.0,150.0
-2025-04-13,Lunch Run,Run,1.8,130.0
-2025-04-14,Shoulders and biceps,Workout,0.0,161.0
-2025-04-15,Chest and Back,Workout,0.0,257.0
-2025-04-16,Physiotherapy,Workout,0.0,
-2025-04-17,Triceps and shoulders,Workout,0.0,
-2025-04-24,Morning Walk,Walk,1.92,197.0
-2025-04-24,Chest and Biceps,Workout,0.0,240.0
-2025-04-25,Back and Shoulders,Workout,0.0,199.0
-2025-04-26,Triceps and biceps,Workout,0.0,303.0
-2025-04-27,Morning Run,Run,2.51,138.0
-2025-04-28,Shoulders and Back,Workout,0.0,246.0
-2025-05-05,Evening Walk,Walk,6.75,272.0
-2025-05-06,Back/Chest/Triceps,Workout,0.0,339.0
-2025-04-26,Triceps/Biceps,Workout,0.0,
-2025-04-30,Physiotherapy,Workout,0.0,
-2025-05-08,Chest,Workout,0.0,195.0
-2025-05-20,thought I’d do some exercise,Workout,0.0,241.0
-2025-05-21,Physiotherapy,Workout,0.0,
-2025-05-22,Back/Bicep,Workout,0.0,188.0
-2025-05-24,Chest/Shoulder,Workout,0.0,188.0
-2025-05-24,Treadmill run,Virtual Run,0.0,
-2025-05-28,Afternoon Workout,Workout,0.0,212.0
-2025-05-29,Afternoon Walk,Walk,5.9,638.0
-2025-05-30,Afternoon Walk,Walk,1.93,107.0
-2025-05-30,Shoulders and triceps,Weight Training,0.0,171.0
-2025-06-01,The Horse (I don’t see colour),Walk,3.02,315.0
-2025-06-02,Lunch Walk,Walk,6.84,880.0
-2025-06-02,Biceps/Triceps/Glutes/Shoulders,Weight Training,0.0,180.0
-2025-06-03,Evening Run,Run,1.0,111.0
-2025-06-03,Chest/Back,Weight Training,0.0,112.0
-2025-06-04,Legs,Weight Training,0.0,172.0
-2025-06-06,Evening Walk,Walk,7.41,432.0
-2025-06-08,Shoulders/Biceps/Chest,Weight Training,0.0,130.0
-2025-06-09,Back/Triceps/Glutes,Weight Training,0.0,132.0
-2025-06-09,Evening Walk,Walk,2.0,116.0
-2025-06-12,Morning Walk,Walk,7.36,527.0
-2025-06-15,Morning Walk,Walk,2.51,172.0
-2025-06-15,Circuit Gilles Villeneuve,Walk,3.34,308.0
-2025-07-04,Afternoon Walk,Walk,4.31,645.0
-2025-07-04,Night Walk,Walk,2.01,173.0
-2025-07-08,Shoulders/Back/Biceps,Weight Training,0.0,108.0
-2025-07-08,Night Walk,Walk,1.69,88.0
-2025-07-14,Shoulders/Chest/Triceps,Weight Training,0.0,128.0
-2025-07-15,Afternoon Run,Run,5.15,289.0
-2025-07-16,Evening Run,Run,2.44,151.0
-2025-07-16,Physiotherapy,Workout,0.0,
-2025-07-17,Lunch Walk,Walk,1.65,89.0
-2025-07-17,Legs,Workout,0.0,
-2025-07-17,Evening Run,Run,2.44,174.0
-2025-07-18,Lunch Run,Run,1.15,66.0
-2025-07-18,Back/Biceps,Weight Training,0.0,85.0
-2025-07-19,Legs,Weight Training,0.0,66.0
-2025-07-19,Night Weight Training,Weight Training,0.0,248.0
-2025-07-20,Abductor/Adductor/Leg Press,Weight Training,0.0,108.0
-2025-07-20,Back/Biceps,Weight Training,0.0,78.0
-2025-07-21,Afternoon Run,Run,2.41,133.0
-2025-07-21,Shoulders/Triceps/Chest,Weight Training,0.0,131.0
-2025-07-22,Afternoon Run,Run,2.57,140.0
-2025-07-22,Leg Extension/Leg Curl,Weight Training,0.0,52.0
-2025-07-23,Physiotherapy,Workout,0.0,
-2025-07-23,Back/Biceps,Weight Training,0.0,88.0
-2025-07-23,Evening Walk,Walk,1.66,94.0
-2025-07-24,Abductors/Adductors/Leg Press,Weight Training,0.0,107.0
-2025-07-24,Tandem Walking,Run,0.02,47.0
-2025-07-24,Treadmill Run,Run,5.0,347.0
-2025-07-25,Shoulders/Triceps/Chest,Weight Training,0.0,134.0
-2025-07-25,Leg curl / leg extension,Weight Training,0.0,
-2025-07-26,Afternoon Run,Run,2.16,115.0
-2025-07-26,Afternoon Walk,Walk,1.24,71.0
-2025-07-26,Hips and Leg Press,Weight Training,0.0,77.0
-2025-07-27,Afternoon Run,Run,5.17,291.0
-2025-07-27,Back/Biceps,Weight Training,0.0,
-2025-07-27,Evening Walk,Walk,1.39,76.0
-2025-07-28,Shoulders/Chest/Triceps,Weight Training,0.0,147.0
-2025-07-28,Leg Curl / Leg extension,Weight Training,0.0,58.0
-2025-07-29,Afternoon Run,Run,2.65,147.0
-2025-07-29,Evening Weight Training,Weight Training,0.0,103.0
-2025-07-30,Evening Run,Run,3.22,183.0
-2025-07-31,Biceps and Back,Weight Training,0.0,97.0
-2025-07-31,Evening Run,Run,4.59,268.0
-2025-08-03,Lunch Run,Run,2.15,219.0
-2025-08-03,Night Weight Training,Weight Training,0.0,162.0
-2025-08-04,Afternoon Run,Run,0.09,8.0
-2025-08-05,Abductors/Adductors/Leg Press,Run,0.0,
-2025-08-05,Back/Biceps,Weight Training,0.0,98.0
-2025-08-06,Evening Run,Run,5.17,291.0
-2025-08-07,Afternoon Run,Run,2.46,148.0
-2025-08-07,Evening Weight Training,Weight Training,0.0,71.0
-2025-08-08,Shoulder/Chest/Triceps,Weight Training,0.0,173.0
-2025-08-09,Afternoon Run,Run,5.17,308.0
-2025-08-09,Hips and Leg Press,Weight Training,0.0,
-2025-08-10,Back and Biceps,Weight Training,0.0,100.0
-2025-08-10,Legs,Run,0.0,
-2025-08-11,Shoulders/Chest/Triceps,Weight Training,0.0,160.0
-2025-08-12,Morning Run,Run,5.79,355.0
-2025-08-13,Lunch Hike,Hike,3.96,599.0
-2025-08-14,Physio HEP,Weight Training,0.0,149.0
-2025-08-14,Afternoon Walk,Walk,5.44,368.0
-2025-08-14,Hips and Legs,Weight Training,0.0,145.0
-2025-08-14,Evening Run,Run,5.17,311.0
-2025-08-15,Back and biceps,Weight Training,0.0,95.0
-2025-08-15,Evening Run,Run,2.9,177.0
-2025-08-16,Afternoon Weight Training,Weight Training,0.0,128.0
-2025-08-17,Afternoon Weight Training,Weight Training,0.0,123.0
+Activity Date,Activity Name,Activity Type,Distance,Calories,Did Exercise
+2020-06-03,Evening Run,Run,5.42,,1
+2020-06-07,Evening Run,Run,5.3,,1
+2020-06-15,Evening Run,Run,5.23,,1
+2020-06-16,Evening Run,Run,5.29,,1
+2020-06-21,Evening Run,Run,6.57,,1
+2020-06-27,Evening Run,Run,5.26,,1
+2020-06-30,Evening Run,Run,6.51,,1
+2020-07-06,Evening Run,Run,5.42,,1
+2020-07-10,Evening Run,Run,5.24,,1
+2020-07-15,Evening Run,Run,5.43,,1
+2020-07-20,Evening Run,Run,5.4,,1
+2020-07-26,Night Run,Run,5.21,,1
+2020-07-23,Night Run,Run,8.11,,1
+2020-08-03,Evening Run,Run,5.19,,1
+2020-08-09,Evening Run,Run,6.5,,1
+2020-08-11,Night Run,Run,5.46,,1
+2020-08-13,Evening Run,Run,5.23,,1
+2020-08-15,Night Run,Run,5.14,,1
+2020-08-20,Evening Run,Run,5.19,,1
+2020-08-23,Evening Run,Run,5.23,,1
+2020-08-25,Evening Run,Run,5.21,,1
+2020-08-30,Evening Run,Run,5.17,,1
+2020-09-08,Evening Run,Run,5.13,,1
+2020-09-02,Evening Run,Run,5.29,,1
+2020-09-06,Evening Run,Run,5.16,,1
+2020-09-13,Evening Run,Run,5.23,,1
+2020-09-10,Evening Run,Run,5.23,,1
+2020-09-15,Evening Run,Run,10.96,,1
+2020-09-26,Afternoon Run,Run,3.87,,1
+2020-09-28,Evening Run,Run,3.0,,1
+2020-10-01,Evening Run,Run,5.0,,1
+2020-10-08,Afternoon Run,Run,4.84,,1
+2020-10-25,Afternoon Run,Run,5.12,,1
+2021-02-04,Night Walk,Walk,0.27,,1
+2021-02-06,Night Walk,Walk,0.32,,1
+2021-02-07,Night Walk,Walk,0.84,,1
+2021-06-19,Afternoon Run,Run,3.52,596.0,1
+2021-07-01,Afternoon Run,Run,3.89,,1
+2021-06-29,Afternoon Run,Run,2.2,,1
+2021-06-26,Afternoon Run,Run,5.22,,1
+2021-07-16,Best Run Yet,Run,1.8,,1
+2022-03-23,Afternoon Walk,Walk,1.89,,1
+2022-03-26,Afternoon Walk,Walk,2.31,,1
+2022-04-09,Afternoon Run,Virtual Run,0.93,,1
+2022-04-11,Morning Run,Run,1.9,,1
+2022-04-13,Afternoon Walk,Walk,0.54,,1
+2022-10-04,Evening Walk,Walk,0.32,,1
+2022-10-07,Evening Walk,Walk,0.31,,1
+2022-10-14,Afternoon Walk,Walk,0.15,,1
+2022-10-16,Afternoon Walk,Walk,0.29,,1
+2022-10-21,Afternoon Walk,Walk,0.28,,1
+2022-10-24,Evening Walk,Walk,0.29,,1
+2022-10-26,Afternoon Walk,Walk,0.38,,1
+2022-11-01,Afternoon Walk,Walk,0.38,,1
+2022-11-04,Afternoon Walk,Walk,0.3,,1
+2022-11-10,Afternoon Walk,Walk,1.2,,1
+2022-11-14,Afternoon Walk,Walk,0.78,,1
+2023-02-10,Afternoon Walk,Walk,0.19,,1
+2023-05-22,Evening Workout,Workout,0.0,281.0,1
+2023-05-23,Evening Workout,Workout,0.0,179.0,1
+2023-05-27,Afternoon Run,Run,0.55,43.0,1
+2023-05-24,Evening Workout,Workout,0.0,106.0,1
+2023-05-26,Afternoon Workout,Workout,0.0,163.0,1
+2023-05-20,Afternoon Run,Run,0.67,62.0,1
+2023-05-17,Lunch Workout,Workout,0.0,102.0,1
+2023-05-16,Evening Workout,Workout,0.0,249.0,1
+2023-05-15,Evening Workout,Workout,0.0,289.0,1
+2023-05-11,Afternoon Workout,Workout,0.0,151.0,1
+2023-05-12,Afternoon Run,Run,0.99,51.0,1
+2023-05-04,Afternoon Workout,Workout,0.0,132.0,1
+2023-05-02,Afternoon Workout,Workout,0.0,175.0,1
+2023-05-03,Lunch Workout,Workout,0.0,59.0,1
+2023-05-05,Afternoon Walk,Walk,1.23,83.0,1
+2023-05-29,Afternoon Workout,Workout,0.0,89.0,1
+2023-05-29,Afternoon Workout,Workout,0.0,95.0,1
+2023-05-30,Afternoon Workout,Workout,0.0,84.0,1
+2023-05-31,Afternoon Workout,Workout,0.0,120.0,1
+2023-05-31,Afternoon Run,Run,0.16,6.0,1
+2023-06-01,Afternoon Workout,Workout,0.0,100.0,1
+2023-06-01,Afternoon Workout,Workout,0.0,118.0,1
+2023-06-02,Evening Run,Run,0.97,33.0,1
+2023-06-05,Afternoon Walk,Walk,0.83,39.0,1
+2023-06-05,Afternoon Workout,Workout,0.0,7.0,1
+2023-06-05,Evening Workout,Workout,0.0,103.0,1
+2023-06-06,Afternoon Workout,Workout,0.0,80.0,1
+2023-06-06,Afternoon Workout,Workout,0.0,65.0,1
+2023-06-06,Afternoon Run,Run,0.33,17.0,1
+2023-06-07,Lunch Workout,Workout,0.0,326.0,1
+2023-06-07,Afternoon Workout,Workout,0.0,99.0,1
+2023-06-08,Afternoon Workout,Workout,0.0,160.0,1
+2023-06-09,Afternoon Walk,Walk,1.79,129.0,1
+2023-06-10,Afternoon Walk,Walk,0.27,19.0,1
+2023-06-12,Evening Workout,Workout,0.0,183.0,1
+2023-06-13,Evening Walk,Walk,0.84,51.0,1
+2023-06-14,Night Workout,Workout,0.0,81.0,1
+2023-06-14,Night Workout,Workout,0.0,86.0,1
+2023-06-15,Afternoon Workout,Workout,0.0,105.0,1
+2023-06-16,Evening Workout,Workout,0.0,245.0,1
+2023-06-17,Lunch Walk,Walk,0.74,46.0,1
+2023-06-20,Lunch Workout,Workout,0.0,45.0,1
+2023-06-20,Afternoon Workout,Workout,0.0,64.0,1
+2023-06-20,Afternoon Workout,Workout,0.0,55.0,1
+2023-06-20,Afternoon Workout,Workout,0.0,166.0,1
+2023-06-20,Afternoon Walk,Walk,0.47,34.0,1
+2023-06-21,Afternoon Walk,Walk,0.35,25.0,1
+2023-06-24,Lunch Walk,Walk,0.34,17.0,1
+2023-06-24,Lunch Walk,Walk,0.32,18.0,1
+2023-06-26,Evening Walk,Walk,1.58,92.0,1
+2023-06-28,Lunch Workout,Workout,0.0,197.0,1
+2023-06-28,Afternoon Walk,Walk,0.46,21.0,1
+2023-06-29,Afternoon Walk,Walk,0.15,18.0,1
+2023-07-04,Afternoon Workout,Workout,0.0,109.0,1
+2023-07-05,Afternoon Workout,Workout,0.0,115.0,1
+2023-07-05,Evening Workout,Workout,0.0,68.0,1
+2023-07-07,Afternoon Workout,Workout,0.0,94.0,1
+2023-07-08,Afternoon Workout,Workout,0.0,141.0,1
+2023-07-09,Evening Walk,Walk,0.71,38.0,1
+2023-07-10,Afternoon Workout,Workout,0.0,174.0,1
+2023-07-10,Evening Workout,Workout,0.0,139.0,1
+2023-07-11,Evening Workout,Workout,0.0,66.0,1
+2023-07-11,Evening Workout,Workout,0.0,82.0,1
+2023-07-11,Night Walk,Walk,1.79,107.0,1
+2023-07-12,Afternoon Walk,Walk,0.44,22.0,1
+2023-07-12,Evening Workout,Workout,0.0,125.0,1
+2023-07-13,Afternoon Workout,Workout,0.0,134.0,1
+2023-07-13,Night Workout,Workout,0.0,71.0,1
+2023-07-13,Night Walk,Walk,0.35,23.0,1
+2023-07-17,Afternoon Workout,Workout,0.0,120.0,1
+2023-07-17,Evening Workout,Workout,0.0,184.0,1
+2023-07-18,Night Workout,Workout,0.0,77.0,1
+2023-07-18,Night Workout,Workout,0.0,89.0,1
+2023-07-19,Lunch Workout,Workout,0.0,140.0,1
+2023-07-20,Afternoon Workout,Workout,0.0,118.0,1
+2023-07-20,Afternoon Walk,Walk,0.25,13.0,1
+2023-07-21,Afternoon Workout,Workout,0.0,163.0,1
+2023-07-24,Afternoon Walk,Walk,1.14,58.0,1
+2023-07-24,Evening Workout,Workout,0.0,296.0,1
+2023-07-25,Afternoon Workout,Workout,0.0,74.0,1
+2023-07-25,Afternoon Workout,Workout,0.0,56.0,1
+2023-07-26,Evening Workout,Workout,0.0,79.0,1
+2023-07-26,Evening Workout,Workout,0.0,102.0,1
+2023-07-28,Afternoon Workout,Workout,0.0,112.0,1
+2023-07-29,Afternoon Workout,Workout,0.0,161.0,1
+2023-08-03,Afternoon Workout,Workout,0.0,210.0,1
+2023-08-04,Lunch Walk,Walk,0.46,26.0,1
+2023-08-04,Afternoon Walk,Walk,1.09,57.0,1
+2023-08-07,Afternoon Workout,Workout,0.0,75.0,1
+2023-08-07,Evening Workout,Workout,0.0,83.0,1
+2023-08-08,Afternoon Walk,Walk,1.14,56.0,1
+2023-08-08,Afternoon Workout,Workout,0.0,142.0,1
+2023-08-09,Evening Walk,Walk,1.7,118.0,1
+2023-08-10,Afternoon Workout,Workout,0.0,92.0,1
+2023-08-11,Evening Workout,Workout,0.0,250.0,1
+2023-08-13,Lunch Walk,Walk,1.14,63.0,1
+2023-08-13,Evening Walk,Walk,1.76,69.0,1
+2023-08-14,Evening Walk,Walk,0.61,27.0,1
+2023-08-14,Night Walk,Walk,0.57,38.0,1
+2023-08-15,Lunch Walk,Walk,0.68,32.0,1
+2023-08-15,Lunch Walk,Walk,0.91,44.0,1
+2023-08-15,Evening Workout,Workout,0.0,159.0,1
+2023-08-17,Evening Workout,Workout,0.0,195.0,1
+2023-08-18,Evening Walk,Walk,0.4,19.0,1
+2023-08-19,Afternoon Workout,Workout,0.0,123.0,1
+2023-08-19,Evening Walk,Walk,1.94,114.0,1
+2023-08-20,Afternoon Workout,Workout,0.0,189.0,1
+2023-08-20,Afternoon Walk,Walk,0.12,9.0,1
+2023-08-22,Afternoon Walk,Walk,0.69,,1
+2023-08-22,Evening Workout,Workout,0.0,226.0,1
+2023-08-23,Afternoon Workout,Workout,0.0,138.0,1
+2023-08-24,Afternoon Workout,Workout,0.0,124.0,1
+2023-08-24,Evening Walk,Walk,1.81,,1
+2023-08-25,Evening Walk,Walk,1.31,,1
+2023-08-26,Afternoon Workout,Workout,0.0,142.0,1
+2023-08-27,Lunch Walk,Walk,2.04,93.0,1
+2023-08-28,Evening Workout,Workout,0.0,87.0,1
+2023-08-30,Afternoon Workout,Workout,0.0,73.0,1
+2023-08-30,Afternoon Workout,Workout,0.0,121.0,1
+2023-08-31,Afternoon Walk,Walk,1.83,,1
+2023-09-01,Afternoon Workout,Workout,0.0,98.0,1
+2023-09-01,Evening Walk,Walk,1.72,,1
+2023-09-02,Afternoon Walk,Walk,1.74,,1
+2023-09-02,Afternoon Workout,Workout,0.0,163.0,1
+2023-09-03,Afternoon Walk,Walk,1.39,,1
+2023-09-03,Evening Walk,Walk,0.97,,1
+2023-09-04,Afternoon Walk,Walk,2.03,,1
+2023-09-04,Afternoon Workout,Workout,0.0,193.0,1
+2023-09-05,Afternoon Walk,Walk,2.32,,1
+2023-09-06,Afternoon Workout,Workout,0.0,205.0,1
+2023-09-06,Evening Walk,Walk,1.88,,1
+2023-09-07,Evening Walk,Walk,1.65,,1
+2023-09-11,Night Walk,Walk,0.73,,1
+2023-09-13,Afternoon Workout,Workout,0.0,120.0,1
+2023-09-12,Afternoon Workout,Workout,0.0,115.0,1
+2023-09-13,Night Walk,Walk,0.63,310.0,1
+2023-09-14,Evening Workout,Workout,0.0,191.0,1
+2023-09-15,Afternoon Walk,Walk,1.13,70.0,1
+2023-09-15,Evening Workout,Workout,0.0,219.0,1
+2023-09-17,Afternoon Walk,Walk,1.12,69.0,1
+2023-09-18,Night Workout,Workout,0.0,128.0,1
+2023-09-19,Evening Workout,Workout,0.0,196.0,1
+2023-09-20,Evening Workout,Workout,0.0,155.0,1
+2023-09-23,Lunch Walk,Walk,0.79,40.0,1
+2023-09-25,Evening Workout,Workout,0.0,199.0,1
+2023-09-26,Night Workout,Workout,0.0,85.0,1
+2023-10-02,Afternoon Walk,Walk,0.27,103.0,1
+2023-10-07,Afternoon Walk,Walk,0.8,53.0,1
+2023-10-17,Afternoon Walk,Walk,1.56,76.0,1
+2023-10-18,Afternoon Walk,Walk,0.66,41.0,1
+2023-10-22,Afternoon Walk,Walk,0.34,148.0,1
+2023-10-23,Lunch Walk,Walk,0.82,149.0,1
+2023-10-23,Afternoon Workout,Workout,0.0,229.0,1
+2023-10-24,Afternoon Workout,Workout,0.0,191.0,1
+2023-10-24,Night Walk,Walk,0.17,32.0,1
+2023-10-26,Evening Workout,Workout,0.0,269.0,1
+2023-10-27,Afternoon Workout,Workout,0.0,237.0,1
+2023-10-29,Afternoon Walk,Walk,0.42,82.0,1
+2023-10-30,Afternoon Workout,Workout,0.0,255.0,1
+2023-10-31,Evening Workout,Workout,0.0,327.0,1
+2023-11-02,Afternoon Workout,Workout,0.0,311.0,1
+2023-11-03,Afternoon Walk,Walk,0.77,220.0,1
+2023-11-03,Afternoon Workout,Workout,0.0,377.0,1
+2023-11-06,Afternoon Workout,Workout,0.0,371.0,1
+2023-11-07,Evening Workout,Workout,0.0,290.0,1
+2023-11-09,Evening Workout,Workout,0.0,401.0,1
+2023-11-10,Lunch Workout,Workout,0.0,164.0,1
+2023-11-13,Afternoon Workout,Workout,0.0,485.0,1
+2023-11-14,Evening Workout,Workout,0.0,234.0,1
+2023-11-17,Afternoon Workout,Workout,0.0,163.0,1
+2023-11-20,Evening Workout,Workout,0.0,260.0,1
+2023-11-21,Afternoon Workout,Workout,0.0,128.0,1
+2023-11-23,Afternoon Workout,Workout,0.0,242.0,1
+2023-11-24,Evening Workout,Workout,0.0,259.0,1
+2023-11-26,Morning Workout,Workout,0.0,169.0,1
+2023-11-28,Night Workout,Workout,0.0,313.0,1
+2023-11-28,Evening Workout,Workout,0.0,256.0,1
+2023-11-30,Evening Workout,Workout,0.0,280.0,1
+2023-12-01,Evening Workout,Workout,0.0,264.0,1
+2023-12-11,Evening Workout,Workout,0.0,195.0,1
+2023-12-12,Evening Workout,Workout,0.0,344.0,1
+2023-12-15,Afternoon Workout,Workout,0.0,244.0,1
+2023-12-16,Evening Workout,Workout,0.0,307.0,1
+2023-12-18,Afternoon Workout,Workout,0.0,206.0,1
+2023-12-19,Evening Workout,Workout,0.0,234.0,1
+2023-12-21,Evening Workout,Workout,0.0,172.0,1
+2023-12-27,Evening Workout,Workout,0.0,243.0,1
+2023-12-29,Afternoon Workout,Workout,0.0,260.0,1
+2023-12-30,Lunch Workout,Workout,0.0,308.0,1
+2024-01-01,Evening Walk,Walk,1.64,68.0,1
+2024-01-03,Lunch Workout,Workout,0.0,331.0,1
+2024-01-04,Lunch Workout,Workout,0.0,280.0,1
+2024-01-04,Afternoon Walk,Walk,0.63,32.0,1
+2024-01-04,Afternoon Walk,Walk,2.43,148.0,1
+2024-01-05,Lunch Walk,Walk,0.82,62.0,1
+2024-01-05,Evening Workout,Workout,0.0,203.0,1
+2024-01-06,Evening Walk,Walk,2.11,121.0,1
+2024-01-06,Lunch Workout,Workout,0.0,335.0,1
+2024-01-07,Lunch Walk,Walk,0.49,112.0,1
+2024-01-07,Evening Workout,Workout,0.0,229.0,1
+2024-01-08,Afternoon Workout,Workout,0.0,356.0,1
+2024-01-08,Evening Workout,Workout,0.0,301.0,1
+2024-01-09,Afternoon Walk,Walk,0.58,118.0,1
+2024-01-09,Evening Workout,Workout,0.0,270.0,1
+2024-01-10,Morning Workout,Workout,0.0,429.0,1
+2024-01-10,Evening Workout,Workout,0.0,324.0,1
+2024-01-11,Afternoon Workout,Workout,0.0,480.0,1
+2024-01-11,Evening Workout,Workout,0.0,298.0,1
+2024-01-12,Afternoon Workout,Workout,0.0,337.0,1
+2024-01-12,Evening Walk,Walk,2.39,107.0,1
+2024-01-13,Afternoon Workout,Workout,0.0,219.0,1
+2024-01-13,Evening Workout,Workout,0.0,331.0,1
+2024-01-14,Lunch Walk,Walk,2.66,343.0,1
+2024-01-14,Afternoon Workout,Workout,0.0,356.0,1
+2024-01-15,Afternoon Workout,Workout,0.0,222.0,1
+2024-01-15,Evening Workout,Workout,0.0,358.0,1
+2024-01-16,Afternoon Walk,Walk,0.0,,1
+2024-01-16,Evening Workout,Workout,0.0,397.0,1
+2024-01-17,Lunch Workout,Workout,0.0,403.0,1
+2024-01-17,Night Walk,Walk,0.4,79.0,1
+2024-01-18,Afternoon Walk,Walk,2.36,124.0,1
+2024-01-18,Evening Workout,Workout,0.0,347.0,1
+2024-01-19,Afternoon Workout,Workout,0.0,236.0,1
+2024-01-19,Evening Workout,Workout,0.0,333.0,1
+2024-01-20,Afternoon Workout,Workout,0.0,322.0,1
+2024-01-20,Afternoon Workout,Workout,0.0,211.0,1
+2024-01-21,Afternoon Workout,Workout,0.0,205.0,1
+2024-01-21,Evening Workout,Workout,0.0,284.0,1
+2024-01-22,Afternoon Workout,Workout,0.0,345.0,1
+2024-01-22,Evening Workout,Workout,0.0,403.0,1
+2024-01-23,Afternoon Workout,Workout,0.0,302.0,1
+2024-01-23,Evening Workout,Workout,0.0,240.0,1
+2024-01-24,Lunch Workout,Workout,0.0,328.0,1
+2024-01-24,Afternoon Walk,Walk,2.15,135.0,1
+2024-01-25,Afternoon Workout,Workout,0.0,213.0,1
+2024-01-25,Evening Workout,Workout,0.0,329.0,1
+2024-01-26,Afternoon Workout,Workout,0.0,275.0,1
+2024-01-26,Afternoon Run,Run,0.0,,1
+2024-01-27,Afternoon Workout,Workout,0.0,388.0,1
+2024-01-27,Evening Workout,Workout,0.0,234.0,1
+2024-01-28,Afternoon Workout,Workout,0.0,332.0,1
+2024-01-28,Evening Workout,Workout,0.0,287.0,1
+2024-01-29,Afternoon Workout,Workout,0.0,,1
+2024-01-29,Evening Workout,Workout,0.0,269.0,1
+2024-01-30,Afternoon Workout,Workout,0.0,365.0,1
+2024-01-30,Evening Workout,Workout,0.0,284.0,1
+2024-01-31,Lunch Workout,Workout,0.0,359.0,1
+2024-01-31,Afternoon Walk,Walk,2.07,122.0,1
+2024-02-01,Lunch Workout,Workout,0.0,458.0,1
+2024-02-01,Evening Workout,Workout,0.0,348.0,1
+2024-02-02,Afternoon Workout,Workout,0.0,290.0,1
+2024-02-02,Evening Workout,Workout,0.0,414.0,1
+2024-02-03,Afternoon Workout,Workout,0.0,355.0,1
+2024-02-03,Evening Workout,Workout,0.0,271.0,1
+2024-02-04,Afternoon Walk,Walk,2.37,117.0,1
+2024-02-04,Evening Workout,Workout,0.0,263.0,1
+2024-02-05,Lunch Workout,Workout,0.0,399.0,1
+2024-02-05,Evening Workout,Workout,0.0,194.0,1
+2024-02-06,Afternoon Workout,Workout,0.0,189.0,1
+2024-02-06,Evening Workout,Workout,0.0,224.0,1
+2024-02-07,Lunch Workout,Workout,0.0,216.0,1
+2024-02-07,Evening Workout,Workout,0.0,245.0,1
+2024-02-08,Afternoon Workout,Workout,0.0,314.0,1
+2024-02-08,Evening Workout,Workout,0.0,236.0,1
+2024-02-09,Lunch Workout,Workout,0.0,274.0,1
+2024-02-09,Evening Workout,Workout,0.0,260.0,1
+2024-02-10,Afternoon Workout,Workout,0.0,251.0,1
+2024-02-10,Evening Workout,Workout,0.0,262.0,1
+2024-02-11,Afternoon Workout,Workout,0.0,223.0,1
+2024-02-11,Evening Walk,Workout,0.0,556.0,1
+2024-02-12,Afternoon Walk,Walk,2.09,124.0,1
+2024-02-12,Afternoon Workout,Workout,0.0,293.0,1
+2024-02-13,Afternoon Walk,Walk,1.9,116.0,1
+2024-02-13,Evening Workout,Workout,0.0,390.0,1
+2024-02-14,Lunch Workout,Workout,0.0,851.0,1
+2024-02-14,Afternoon Workout,Workout,0.0,250.0,1
+2024-02-15,Afternoon Workout,Workout,0.0,298.0,1
+2024-02-15,Evening Workout,Workout,0.0,234.0,1
+2024-02-16,Lunch Workout,Workout,0.0,230.0,1
+2024-02-16,Afternoon Workout,Workout,0.0,222.0,1
+2024-02-17,Afternoon Workout,Workout,0.0,218.0,1
+2024-02-17,Evening Workout,Workout,0.0,294.0,1
+2024-02-18,Evening Workout,Workout,0.0,308.0,1
+2024-02-19,Afternoon Workout,Workout,0.0,227.0,1
+2024-02-18,Afternoon Workout,Workout,0.0,247.0,1
+2024-02-19,Afternoon Workout,Workout,0.0,194.0,1
+2024-02-20,Afternoon Workout,Workout,0.0,207.0,1
+2024-02-20,Afternoon Workout,Workout,0.0,221.0,1
+2024-02-21,Lunch Workout,Workout,0.0,374.0,1
+2024-02-21,Afternoon Workout,Workout,0.0,318.0,1
+2024-02-22,Afternoon Workout,Workout,0.0,237.0,1
+2024-02-22,Afternoon Workout,Workout,0.0,246.0,1
+2024-02-23,Afternoon Workout,Workout,0.0,285.0,1
+2024-02-23,Afternoon Workout,Workout,0.0,293.0,1
+2024-02-24,Afternoon Workout,Workout,0.0,372.0,1
+2024-02-24,Evening Workout,Workout,0.0,175.0,1
+2024-02-25,Afternoon Workout,Workout,0.0,208.0,1
+2024-02-25,Evening Workout,Workout,0.0,284.0,1
+2024-02-26,Lunch Workout,Workout,0.0,271.0,1
+2024-02-26,Evening Workout,Workout,0.0,246.0,1
+2024-02-27,Afternoon Workout,Workout,0.0,207.0,1
+2024-02-27,Afternoon Workout,Workout,0.0,252.0,1
+2024-02-28,Lunch Workout,Workout,0.0,,1
+2024-02-28,Evening Workout,Workout,0.0,373.0,1
+2024-02-29,Afternoon Workout,Workout,0.0,278.0,1
+2024-02-29,Afternoon Workout,Workout,0.0,188.0,1
+2024-03-01,Lunch Workout,Workout,0.0,210.0,1
+2024-03-01,Evening Workout,Workout,0.0,262.0,1
+2024-03-02,Afternoon Workout,Workout,0.0,310.0,1
+2024-03-02,Afternoon Workout,Workout,0.0,306.0,1
+2024-03-03,Afternoon Workout,Workout,0.0,245.0,1
+2024-03-04,Lunch Workout,Workout,0.0,289.0,1
+2024-03-04,Evening Workout,Workout,0.0,337.0,1
+2024-03-05,Afternoon Walk,Walk,2.08,113.0,1
+2024-03-06,Lunch Run,Run,0.0,,1
+2024-03-06,Lunch Walk,Walk,0.63,24.0,1
+2024-03-06,Afternoon Workout,Workout,0.0,332.0,1
+2024-03-07,Lunch Workout,Workout,0.0,181.0,1
+2024-03-07,Evening Workout,Workout,0.0,247.0,1
+2024-03-08,Lunch Workout,Workout,0.0,222.0,1
+2024-03-08,Night Workout,Workout,0.0,283.0,1
+2024-03-09,Afternoon Workout,Workout,0.0,246.0,1
+2024-03-09,Evening Workout,Workout,0.0,268.0,1
+2024-03-10,Lunch Workout,Workout,0.0,183.0,1
+2024-03-10,Afternoon Workout,Workout,0.0,199.0,1
+2024-03-11,Afternoon Workout,Workout,0.0,269.0,1
+2024-03-12,Afternoon Workout,Workout,0.0,233.0,1
+2024-03-11,Afternoon Workout,Workout,0.0,304.0,1
+2024-03-12,Afternoon Workout,Workout,0.0,246.0,1
+2024-03-13,Afternoon Workout,Workout,0.0,219.0,1
+2024-03-13,Afternoon Workout,Workout,0.0,237.0,1
+2024-03-14,Afternoon Workout,Workout,0.0,250.0,1
+2024-03-14,Afternoon Workout,Workout,0.0,295.0,1
+2024-03-15,Afternoon Workout,Workout,0.0,198.0,1
+2024-03-15,Evening Workout,Workout,0.0,216.0,1
+2024-03-16,Afternoon Workout,Workout,0.0,1081.0,1
+2024-03-16,Evening Workout,Workout,0.0,406.0,1
+2024-03-17,Afternoon Workout,Workout,0.0,212.0,1
+2024-03-17,Afternoon Walk,Walk,2.32,125.0,1
+2024-03-18,Afternoon Workout,Workout,0.0,,1
+2024-03-18,Afternoon Workout,Workout,0.0,217.0,1
+2024-03-19,Afternoon Workout,Workout,0.0,280.0,1
+2024-03-20,Morning Workout,Workout,0.0,341.0,1
+2024-03-21,Afternoon Workout,Workout,0.0,156.0,1
+2024-03-21,Evening Walk,Walk,1.18,65.0,1
+2024-03-22,Afternoon Workout,Workout,0.0,180.0,1
+2024-03-23,Afternoon Workout,Workout,0.0,221.0,1
+2024-03-24,Evening Walk,Walk,1.01,195.0,1
+2024-03-25,Afternoon Workout,Workout,0.0,191.0,1
+2024-03-27,Lunch Workout,Workout,0.0,154.0,1
+2024-03-28,Lunch Workout,Workout,0.0,,1
+2024-03-28,Evening Workout,Workout,0.0,367.0,1
+2024-03-29,Lunch Workout,Workout,0.0,236.0,1
+2024-03-26,Lunch Workout,Workout,0.0,203.0,1
+2024-03-30,Evening Workout,Workout,0.0,248.0,1
+2024-03-31,Evening Workout,Workout,0.0,286.0,1
+2024-04-01,Evening Walk,Walk,5.6,288.0,1
+2024-04-02,Evening Workout,Workout,0.0,119.0,1
+2024-04-03,Morning Workout,Workout,0.0,389.0,1
+2024-04-04,Afternoon Workout,Workout,0.0,287.0,1
+2024-04-04,Evening Workout,Workout,0.0,272.0,1
+2024-04-05,Evening Workout,Workout,0.0,320.0,1
+2024-04-06,Evening Workout,Workout,0.0,263.0,1
+2024-04-07,Evening Workout,Workout,0.0,230.0,1
+2024-04-08,Evening Workout,Workout,0.0,202.0,1
+2024-04-09,Evening Workout,Workout,0.0,317.0,1
+2024-04-10,Morning Workout,Workout,0.0,384.0,1
+2024-04-10,Afternoon Walk,Walk,1.38,86.0,1
+2024-04-11,Lunch Workout,Workout,0.0,,1
+2024-04-11,Evening Workout,Workout,0.0,349.0,1
+2024-04-12,Evening Workout,Workout,0.0,315.0,1
+2024-04-13,Morning Workout,Workout,0.0,1676.0,1
+2024-04-14,Evening Walk,Walk,7.41,384.0,1
+2024-04-15,Evening Workout,Workout,0.0,223.0,1
+2024-04-16,Evening Workout,Workout,0.0,209.0,1
+2024-04-17,Morning Workout,Workout,0.0,365.0,1
+2024-04-18,Evening Workout,Workout,0.0,257.0,1
+2024-04-19,Lunch Workout,Workout,0.0,330.0,1
+2024-04-19,Evening Workout,Workout,0.0,374.0,1
+2024-04-20,Afternoon Walk,Walk,5.17,229.0,1
+2024-04-21,Evening Workout,Workout,0.0,186.0,1
+2024-04-22,Afternoon Workout,Workout,0.0,363.0,1
+2024-04-22,Night Workout,Workout,0.0,250.0,1
+2024-04-23,Evening Workout,Workout,0.0,188.0,1
+2024-04-24,Lunch Workout,Workout,0.0,230.0,1
+2024-04-24,Afternoon Walk,Walk,0.39,21.0,1
+2024-04-25,Lunch Workout,Workout,0.0,175.0,1
+2024-04-25,Night Workout,Workout,0.0,246.0,1
+2024-04-26,Afternoon Workout,Workout,0.0,267.0,1
+2024-04-27,Afternoon Workout,Workout,0.0,142.0,1
+2024-04-28,Afternoon Walk,Walk,1.8,80.0,1
+2024-04-29,Afternoon Walk,Walk,0.58,22.0,1
+2024-04-29,Afternoon Workout,Workout,0.0,280.0,1
+2024-04-30,Evening Workout,Workout,0.0,370.0,1
+2024-05-01,Afternoon Walk,Walk,1.41,62.0,1
+2024-05-01,Lunch Workout,Workout,0.0,391.0,1
+2024-05-01,Evening Walk,Walk,1.82,68.0,1
+2024-05-02,Afternoon Workout,Workout,0.0,203.0,1
+2024-05-03,Afternoon Workout,Workout,0.0,223.0,1
+2024-05-03,Afternoon Workout,Workout,0.0,171.0,1
+2024-05-04,Evening Walk,Walk,1.75,77.0,1
+2024-05-07,Afternoon Workout,Workout,0.0,277.0,1
+2024-05-07,Night Workout,Workout,0.0,372.0,1
+2024-05-08,Lunch Workout,Workout,0.0,365.0,1
+2024-05-09,Lunch Workout,Workout,0.0,,1
+2024-05-09,Afternoon Walk,Walk,1.78,82.0,1
+2024-05-10,Evening Workout,Workout,0.0,203.0,1
+2024-05-11,Afternoon Workout,Workout,0.0,294.0,1
+2024-05-11,Afternoon Walk,Walk,2.22,96.0,1
+2024-05-12,Afternoon Walk,Walk,0.94,42.0,1
+2024-05-13,Afternoon Workout,Workout,0.0,229.0,1
+2024-05-13,Evening Workout,Workout,0.0,336.0,1
+2024-05-14,Evening Workout,Workout,0.0,278.0,1
+2024-05-15,Evening Walk,Walk,5.22,225.0,1
+2024-05-16,Evening Workout,Workout,0.0,222.0,1
+2024-05-18,Evening Workout,Workout,0.0,289.0,1
+2024-05-19,Afternoon Walk,Walk,1.74,76.0,1
+2024-05-20,Afternoon Workout,Workout,0.0,309.0,1
+2024-05-21,Afternoon Workout,Workout,0.0,198.0,1
+2024-05-22,Lunch Workout,Workout,0.0,278.0,1
+2024-05-23,Lunch Workout,Workout,0.0,,1
+2024-05-23,Evening Workout,Workout,0.0,252.0,1
+2024-05-25,Afternoon Workout,Workout,0.0,318.0,1
+2024-05-25,Afternoon Walk,Walk,1.79,98.0,1
+2024-05-26,Evening Walk,Walk,5.18,171.0,1
+2024-05-27,Afternoon Workout,Workout,0.0,273.0,1
+2024-05-28,Lunch Workout,Workout,0.0,147.0,1
+2024-05-29,Lunch Workout,Workout,0.0,342.0,1
+2024-05-30,Lunch Workout,Workout,0.0,256.0,1
+2024-05-31,Afternoon Workout,Workout,0.0,331.0,1
+2024-06-01,Afternoon Walk,Walk,1.8,82.0,1
+2024-06-02,Afternoon Walk,Walk,0.64,24.0,1
+2024-06-03,Afternoon Workout,Workout,0.0,262.0,1
+2024-06-04,Afternoon Workout,Workout,0.0,262.0,1
+2024-06-05,Lunch Workout,Workout,0.0,257.0,1
+2024-06-05,Evening Walk,Walk,1.76,75.0,1
+2024-06-06,Afternoon Workout,Workout,0.0,346.0,1
+2024-06-07,Lunch Workout,Workout,0.0,277.0,1
+2024-06-08,Evening Walk,Walk,1.93,116.0,1
+2024-06-10,Lunch Workout,Workout,0.0,274.0,1
+2024-06-11,Afternoon Workout,Workout,0.0,230.0,1
+2024-06-11,Evening Walk,Walk,5.16,222.0,1
+2024-06-12,Lunch Workout,Workout,0.0,328.0,1
+2024-06-12,Afternoon Walk,Walk,1.78,79.0,1
+2024-06-13,Afternoon Workout,Workout,0.0,340.0,1
+2024-06-14,Afternoon Workout,Workout,0.0,373.0,1
+2024-06-15,Evening Walk,Walk,0.16,9.0,1
+2024-06-15,Evening Walk,Walk,1.76,83.0,1
+2024-06-17,Afternoon Workout,Workout,0.0,354.0,1
+2024-06-18,Afternoon Workout,Workout,0.0,230.0,1
+2024-06-19,Physiotherapy,Workout,0.0,,1
+2024-06-20,"Back, Chest, Biceps",Workout,0.0,297.0,1
+2024-06-21,"Bicep, Triceps, Shoulders",Workout,0.0,351.0,1
+2024-06-21,Evening Walk,Walk,1.78,114.0,1
+2024-06-22,Afternoon Walk,Walk,1.79,81.0,1
+2024-06-23,Afternoon Walk,Walk,2.47,98.0,1
+2024-06-24,Afternoon Walk,Walk,4.92,227.0,1
+2024-06-26,Physiotherapy,Workout,0.0,433.0,1
+2024-06-28,Afternoon Walk,Walk,2.45,106.0,1
+2024-06-29,Lunch Walk,Walk,1.32,78.0,1
+2024-06-29,Evening Walk,Walk,1.78,77.0,1
+2024-06-30,Evening Walk,Walk,1.43,83.0,1
+2024-07-01,Lunch Workout,Workout,0.0,247.0,1
+2024-07-01,"Back, Triceps and Shoulders",Workout,0.0,297.0,1
+2024-07-02,Chest and Biceps,Workout,0.0,212.0,1
+2024-07-03,Lunch Workout,Workout,0.0,384.0,1
+2024-07-04,Lunch Walk,Walk,1.61,70.0,1
+2024-07-04,"Back, triceps, shoulders",Workout,0.0,359.0,1
+2024-07-04,Evening Walk,Walk,1.79,106.0,1
+2024-07-05,Physio home exercises,Workout,0.0,146.0,1
+2024-07-05,Chest,Workout,0.0,116.0,1
+2024-07-06,Afternoon Walk,Walk,1.81,111.0,1
+2024-07-06,Biceps,Workout,0.0,138.0,1
+2024-07-07,Physio Home Exercises,Workout,0.0,244.0,1
+2024-07-08,"Back, Tricep and Shoulders",Workout,0.0,304.0,1
+2024-07-08,Evening Walk,Walk,1.76,105.0,1
+2024-07-09,Chest and Biceps,Workout,0.0,190.0,1
+2024-07-10,Physiotherapy,Run,0.0,,1
+2024-07-10,Afternoon Walk,Walk,0.56,27.0,1
+2024-07-11,Afternoon Walk,Walk,1.93,121.0,1
+2024-07-11,"Chest, shoulders, triceps, legs",Workout,0.0,409.0,1
+2024-07-11,Evening Swim,Swim,0.0,39.0,1
+2024-07-12,Afternoon Walk,Walk,5.21,240.0,1
+2024-07-13,Back and Biceps,Workout,0.0,108.0,1
+2024-07-14,Afternoon Walk,Walk,0.61,26.0,1
+2024-07-14,Night Walk,Walk,1.01,39.0,1
+2024-07-15,Physio Home Exercises,Workout,0.0,,1
+2024-07-15,"Back, Triceps, Shoulders",Workout,0.0,208.0,1
+2024-07-16,Afternoon Walk,Walk,1.36,64.0,1
+2024-07-16,"Chest, Biceps, Back",Workout,0.0,252.0,1
+2024-07-16,Evening Walk,Walk,1.8,115.0,1
+2024-07-17,Physiotherapy,Workout,0.0,367.0,1
+2024-07-18,"Back, Triceps, Shoulders",Workout,0.0,245.0,1
+2024-07-18,Evening Walk,Walk,2.4,108.0,1
+2024-07-19,"Chest, Biceps, Back",Workout,0.0,241.0,1
+2024-07-20,Afternoon Walk,Walk,1.78,81.0,1
+2024-07-21,Physiotherapy Home Exercises,Workout,0.0,220.0,1
+2024-07-21,Afternoon Workout,Workout,0.0,89.0,1
+2024-07-22,Back Biceps and Shoulders,Workout,0.0,233.0,1
+2024-07-23,Lunch Walk,Walk,2.44,110.0,1
+2024-07-23,Chest Biceps Back,Workout,0.0,232.0,1
+2024-07-24,Physiotherapy,Workout,0.0,430.0,1
+2024-07-24,Afternoon Walk,Walk,1.33,58.0,1
+2024-07-24,Afternoon Walk,Walk,1.8,81.0,1
+2024-07-25,"Back, Triceps, Shoulders",Workout,0.0,234.0,1
+2024-07-25,Afternoon Walk,Walk,0.48,19.0,1
+2024-07-25,Legs,Workout,0.0,303.0,1
+2024-07-26,"Chest, Biceps, Back",Workout,0.0,221.0,1
+2024-07-26,Evening Walk,Walk,1.78,112.0,1
+2024-07-27,Evening Walk,Walk,2.45,110.0,1
+2024-07-28,Evening Workout,Workout,0.0,239.0,1
+2024-07-29,"Back, triceps, shoulders",Workout,0.0,283.0,1
+2024-07-29,Evening Walk,Walk,1.85,112.0,1
+2024-07-30,Afternoon Walk,Walk,1.38,68.0,1
+2024-07-30,"Chest, Biceps, Back",Workout,0.0,253.0,1
+2024-07-31,Physiotherapy,Workout,0.0,234.0,1
+2024-07-31,Evening Walk,Walk,2.45,108.0,1
+2024-08-01,Morning Walk,Walk,3.45,160.0,1
+2024-08-01,"Back, Triceps, Shoulders",Workout,0.0,225.0,1
+2024-08-02,"Chest, Biceps, Back",Workout,0.0,235.0,1
+2024-08-03,Afternoon Walk,Walk,1.76,118.0,1
+2024-08-04,Lunch Walk,Walk,1.76,115.0,1
+2024-08-04,Legs,Workout,0.0,271.0,1
+2024-08-04,Afternoon Swim,Swim,0.0,33.0,1
+2024-08-05,"Back, Triceps, Shoulders",Workout,0.0,229.0,1
+2024-08-06,"Chest, Biceps, Back",Workout,0.0,229.0,1
+2024-08-06,Afternoon Walk,Walk,1.53,73.0,1
+2024-08-06,Legs,Workout,0.0,221.0,1
+2024-08-07,Physiotherapy,Run,0.0,,1
+2024-08-07,Afternoon Walk,Walk,1.76,87.0,1
+2024-08-08,Lunch Walk,Walk,2.46,110.0,1
+2024-08-08,Back Triceps Shoulders,Workout,0.0,252.0,1
+2024-08-09,Chest Biceps Back,Workout,0.0,192.0,1
+2024-08-09,Legs,Workout,0.0,254.0,1
+2024-08-09,Evening Swim,Swim,0.0,77.0,1
+2024-08-10,Afternoon Walk,Walk,1.0,38.0,1
+2024-08-10,Evening Walk,Walk,2.81,130.0,1
+2024-08-10,Night Walk,Walk,0.59,25.0,1
+2024-08-11,Afternoon Walk,Walk,1.76,111.0,1
+2024-08-12,Evening Walk,Walk,3.24,146.0,1
+2024-08-13,Back. Triceps and Shoulders,Workout,0.0,286.0,1
+2024-08-13,Afternoon Walk,Walk,0.9,40.0,1
+2024-08-13,"Chest, Biceps, Legs",Workout,0.0,225.0,1
+2024-08-14,Physiotherapy,Workout,0.0,316.0,1
+2024-08-14,Lunch Walk,Walk,0.52,25.0,1
+2024-08-14,Afternoon Walk,Walk,1.79,96.0,1
+2024-08-15,"Chest, Biceps, Legs",Workout,0.0,194.0,1
+2024-08-16,Evening Walk,Walk,1.75,111.0,1
+2024-08-17,Afternoon Walk,Walk,1.77,117.0,1
+2024-08-17,"Biceps, Triceps, Shoulders, Legs",Workout,0.0,405.0,1
+2024-08-18,Lunch Walk,Walk,1.77,102.0,1
+2024-08-19,"Back, Triceps, Shoulders, Legs",Workout,0.0,377.0,1
+2024-08-20,"Chest, Biceps, Leg",Workout,0.0,319.0,1
+2024-08-21,Physiotherapy,Workout,0.0,349.0,1
+2024-08-21,Afternoon Walk,Walk,2.48,133.0,1
+2024-08-22,Afternoon Walk,Walk,1.77,104.0,1
+2024-08-22,"Back, Triceps, Shoulders, Legs, Abs",Workout,0.0,470.0,1
+2024-08-23,Afternoon Walk,Walk,1.79,123.0,1
+2024-08-23,"Chest, Biceps, Legs, Abs",Workout,0.0,345.0,1
+2024-08-24,Lunch Walk,Walk,0.63,31.0,1
+2024-08-24,Afternoon Walk,Walk,0.99,48.0,1
+2024-08-24,Afternoon Walk,Walk,0.96,49.0,1
+2024-08-24,Evening Walk,Walk,0.53,27.0,1
+2024-08-25,Physio home exercises,Workout,0.0,239.0,1
+2024-08-25,Afternoon Walk,Walk,2.44,86.0,1
+2024-08-26,"Back, Triceps, Shoulders, Legs, Abs",Workout,0.0,400.0,1
+2024-08-26,Evening Walk,Walk,1.76,93.0,1
+2024-08-27,Afternoon Walk,Walk,0.62,26.0,1
+2024-08-27,"Chest, Biceps, Legs, Abs",Workout,0.0,360.0,1
+2024-08-28,Physiotherapy,Run,0.0,,1
+2024-08-28,Physio Exercises,Workout,0.0,617.0,1
+2024-08-29,Physio Exercises,Workout,0.0,306.0,1
+2024-08-29,Evening Workout,Workout,0.0,460.0,1
+2024-08-31,Physio Home Exercises,Workout,0.0,252.0,1
+2024-09-01,Evening Walk,Walk,1.77,108.0,1
+2024-09-02,Lunch Walk,Walk,2.45,136.0,1
+2024-09-02,"Back, Triceps, Shoulders, Legs, Abs",Workout,0.0,509.0,1
+2024-09-03,Physio exercises,Workout,0.0,269.0,1
+2024-09-03,"Chest, Biceps, Legs, Abs",Workout,0.0,384.0,1
+2024-09-04,Physiotherapy,Workout,0.0,277.0,1
+2024-09-04,Afternoon Walk,Walk,2.45,135.0,1
+2024-09-05,Back Triceps Shoulders Legs Abs,Workout,0.0,473.0,1
+2024-09-06,Evening Run,Run,2.0,,1
+2024-08-30,"Chest, Biceps, Legs, Abs",Workout,0.0,353.0,1
+2024-08-30,Physiotherapy,Run,0.0,,1
+2024-09-07,"Chest, Biceps, Legs, Abs",Workout,0.0,284.0,1
+2024-09-08,Afternoon Walk,Walk,2.44,133.0,1
+2024-09-09,Physio Exercises,Workout,0.0,231.0,1
+2024-09-09,Evening Workout,Workout,0.0,342.0,1
+2024-09-10,"Chest, Biceps, Legs, Abs",Workout,0.0,307.0,1
+2024-09-11,Physiotherapy,Workout,0.0,292.0,1
+2024-09-11,Night Run,Run,1.47,177.0,1
+2024-09-12,Lunch Walk,Walk,1.11,50.0,1
+2024-09-12,Back triceps shoulders legs abs,Workout,0.0,230.0,1
+2024-09-13,Lunch Walk,Walk,0.58,29.0,1
+2024-09-13,Chest Biceps Legs Abs,Workout,0.0,353.0,1
+2024-09-14,Evening Workout,Workout,0.0,1383.0,1
+2024-09-16,Morning Walk,Walk,1.56,62.0,1
+2024-09-16,Afternoon Walk,Walk,1.44,59.0,1
+2024-09-17,Morning Walk,Walk,0.68,32.0,1
+2024-09-19,Gym: Legs,Run,0.0,,1
+2024-09-22,Physio Exercises,Workout,0.0,212.0,1
+2024-09-23,Back/Triceps/Shoulders/Abs,Workout,0.0,382.0,1
+2024-09-24,Chest/Biceps/Abs,Workout,0.0,313.0,1
+2024-09-24,My First Run with Runna ✅,Run,2.19,,1
+2024-09-25,Triceps/Shoulders/Back/Calf Stretch,Workout,0.0,423.0,1
+2024-09-27,Biceps/Chest/abs,Workout,0.0,277.0,1
+2024-09-27,Gradual Build with Runna ✅,Run,2.64,,1
+2024-09-29,Easy Effort with Runna ✅,Run,2.62,,1
+2024-09-30,Back/Triceps/Shoulders,Workout,0.0,291.0,1
+2024-09-30,Legs,Workout,0.0,234.0,1
+2024-10-01,Chest/Biceps/Abs,Workout,0.0,229.0,1
+2024-10-02,Back Triceps Shoulders,Workout,0.0,208.0,1
+2024-10-04,Night Workout,Workout,0.0,144.0,1
+2024-10-07,Back/Shoulders/Triceps,Workout,0.0,,1
+2024-10-08,Chest/Biceps/Abs,Workout,0.0,253.0,1
+2024-10-10,Back/Triceps/Shoulders,Workout,0.0,259.0,1
+2024-10-11,Chest/Biceps/Abs,Workout,0.0,230.0,1
+2024-10-13,Afternoon Walk,Walk,3.94,156.0,1
+2024-10-15,Back/Shoulders/Triceps,Workout,0.0,279.0,1
+2024-10-16,Abs/Chest/Biceps,Workout,0.0,234.0,1
+2024-10-16,Hips/Legs,Workout,0.0,123.0,1
+2024-10-17,Physiotherapy,Workout,0.0,,1
+2024-10-17,Triceps/Back/Shoulders,Workout,0.0,298.0,1
+2024-10-21,Hips/Leg Curl,Workout,0.0,74.0,1
+2024-10-22,Lunch Workout,Workout,0.0,113.0,1
+2024-10-22,Afternoon Walk,Walk,1.77,70.0,1
+2024-10-23,Chest/Biceps/Shoulders,Workout,0.0,279.0,1
+2024-10-25,Back/Triceps/Shoulders,Workout,0.0,210.0,1
+2024-10-25,Hips,Workout,0.0,142.0,1
+2024-10-25,Night Walk,Walk,1.74,82.0,1
+2024-10-28,Chest/Biceps,Workout,0.0,121.0,1
+2024-10-28,Hip Adductors,Workout,0.0,63.0,1
+2024-10-29,Shoulders/Triceps/Hip Abductors,Workout,0.0,259.0,1
+2024-10-30,Physiotherapy,Workout,0.0,348.0,1
+2024-10-30,Afternoon Walk,Walk,5.17,221.0,1
+2024-11-04,My First Run with Runna ✅,Run,2.55,,1
+2024-11-04,Duplicate,Workout,0.0,283.0,1
+2024-11-05,Triceps/Back/Shoulders,Workout,0.0,359.0,1
+2024-11-06,Chest/Biceps,Workout,0.0,258.0,1
+2024-11-07,Gradual Build with Runna ✅,Run,2.57,,1
+2024-11-07,Duplicate,Run,2.53,133.0,1
+2024-11-07,Back/Triceps/Shoulders,Workout,0.0,326.0,1
+2024-11-08,Bicep/Chest,Workout,0.0,193.0,1
+2024-11-09,Easy Effort with Runna ✅,Run,2.96,162.0,1
+2024-11-11,Kicking Off Week 2 with Runna ✅,Run,3.24,167.0,1
+2024-11-12,Triceps/Back/Shoulders,Workout,0.0,309.0,1
+2024-11-13,Biceps/Chest,Workout,0.0,172.0,1
+2024-11-14,Physiotherapy,Workout,0.0,468.0,1
+2024-11-14,Brisk Walks with Runna ✅,Run,3.69,194.0,1
+2024-11-16,Conversational Running with Runna ✅,Run,2.54,134.0,1
+2024-11-18,New Week with Runna ✅,Run,3.21,166.0,1
+2024-11-18,Triceps/Shoulders/Back,Workout,0.0,,1
+2024-11-19,Chest/Biceps,Workout,0.0,,1
+2024-11-20,Stepping It Up with Runna ✅,Run,3.66,193.0,1
+2024-11-21,Triceps/Shoulders/Back,Workout,0.0,,1
+2024-11-23,Getting It Done with Runna ✅,Run,3.28,174.0,1
+2024-11-25,Biceps/Chest,Workout,0.0,178.0,1
+2024-11-26,Reduced Walking with Runna ✅,Run,3.66,195.0,1
+2024-11-26,Night Workout,Workout,0.0,390.0,1
+2024-11-28,Nearly Half Way There with Runna ✅,Run,3.51,179.0,1
+2024-11-29,Biceps and Chest,Workout,0.0,228.0,1
+2024-11-30,Longer Reps with Runna ✅,Run,3.95,203.0,1
+2024-12-03,Biceps/ Chest/ Triceps,Workout,0.0,325.0,1
+2024-12-03,Over Half Way with Runna ✅,Run,4.6,252.0,1
+2024-12-04,Pushing The Pace with Runna ✅,Run,3.93,218.0,1
+2024-12-06,Back Shoulders and Hips,Workout,0.0,300.0,1
+2024-12-08,Pacing Practice with Runna ✅,Run,4.74,248.0,1
+2024-12-09,Back/Triceps,Workout,0.0,183.0,1
+2024-12-11,Biceps/Chest/Hips,Workout,0.0,392.0,1
+2024-12-10,Save The Speed with Runna ✅,Run,5.9,315.0,1
+2024-12-13,Night Workout,Workout,0.0,182.0,1
+2024-12-12,400m Reps with Runna ✅,Run,4.45,222.0,1
+2024-12-14,Broken 3kms with Runna ✅,Run,4.57,,1
+2024-12-16,2km Reps with Runna ✅,Run,5.62,311.0,1
+2024-12-18,Night Walk,Walk,1.34,54.0,1
+2024-12-18,Night Walk,Walk,4.49,187.0,1
+2024-12-19,Fast 500s with Runna ✅,Run,6.48,354.0,1
+2024-12-20,Hips,Workout,0.0,,1
+2024-12-22,Closer To 5km with Runna ✅,Run,5.85,308.0,1
+2024-12-25,Last Easy Run with Runna ✅,Run,3.37,189.0,1
+2024-12-30,Couch to 5k in 48 Months,Run,5.02,278.0,1
+2025-01-02,Physiotherapy,Workout,0.0,,1
+2025-01-03,Cheeky run to the bus,Run,1.01,48.0,1
+2025-01-05,Chest/Biceps,Workout,0.0,249.0,1
+2025-01-06,4km Easy Run with Runna ✅,Run,4.01,226.0,1
+2025-01-09,Back/Triceps/Shoulders,Workout,0.0,525.0,1
+2025-01-11,Physiotherapy,Workout,0.0,367.0,1
+2025-01-12,Short Run,Run,1.22,70.0,1
+2025-01-12,Chest/Shoulders,Workout,0.0,155.0,1
+2025-01-13,Afternoon Walk,Walk,2.8,109.0,1
+2025-01-14,Back/Triceps/Biceps,Workout,0.0,369.0,1
+2025-01-14,Brain Surgery to 10k in 4 years (and a day),Run,10.04,515.0,1
+2025-01-15,Physiotherapy,Workout,0.0,,1
+2025-01-17,Afternoon Walk,Walk,2.24,91.0,1
+2025-01-17,Shoulders/Chest,Workout,0.0,225.0,1
+2025-01-18,Afternoon Walk,Walk,2.63,112.0,1
+2025-01-18,Sprints,Run,2.51,143.0,1
+2025-01-19,Afternoon Walk,Walk,2.42,112.0,1
+2025-01-20,Afternoon Run,Run,2.45,133.0,1
+2025-01-22,Physiotherapy,Workout,0.0,,1
+2025-01-23,Biceps/Hips,Workout,0.0,261.0,1
+2025-01-24,Night Workout,Workout,0.0,171.0,1
+2025-01-25,Lunch Walk,Walk,2.58,102.0,1
+2025-01-28,Afternoon Walk,Walk,2.38,100.0,1
+2025-01-30,Morning Walk,Walk,3.21,165.0,1
+2025-02-02,I’ve waited 24 years for this day,Run,5.01,262.0,1
+2025-01-30,Night Workout,Workout,0.0,452.0,1
+2025-02-02,Afternoon Walk,Walk,2.08,98.0,1
+2025-02-03,Hips/Biceps/Chest,Workout,0.0,466.0,1
+2025-02-04,Back/Shoulders/Triceps,Workout,0.0,309.0,1
+2025-02-06,Morning Walk,Walk,3.15,175.0,1
+2025-02-05,Physiotherapy,Workout,0.0,,1
+2025-02-06,Chest/Triceps,Workout,0.0,191.0,1
+2025-02-07,Afternoon Walk,Walk,1.25,45.0,1
+2025-02-09,Chest/Triceps,Workout,0.0,233.0,1
+2025-02-10,Biceps,Workout,0.0,139.0,1
+2025-02-11,Chest/Shoulders/Triceps,Workout,0.0,,1
+2025-02-12,Physiotherapy,Workout,0.0,,1
+2025-02-13,Afternoon Run,Run,5.32,284.0,1
+2025-02-14,Morning Walk,Walk,2.9,153.0,1
+2025-02-17,Triceps,Workout,0.0,109.0,1
+2025-02-19,Chest,Workout,0.0,175.0,1
+2025-02-20,Physiotherapy,Workout,0.0,,1
+2025-02-21,Chest Shoulders Biceps,Workout,0.0,108.0,1
+2025-02-22,Triceps/Back,Run,0.0,,1
+2025-02-23,Morning Run,Run,5.15,283.0,1
+2025-02-24,Physio HEP,Workout,0.0,193.0,1
+2025-02-27,Lunch Walk,Walk,4.56,256.0,1
+2025-02-27,Chest / Shoulders,Workout,0.0,332.0,1
+2025-02-28,Morning Run,Run,5.13,281.0,1
+2025-03-02,Physio HEP,Workout,0.0,250.0,1
+2025-03-03,Triceps and Biceps,Workout,0.0,343.0,1
+2025-03-04,Back/Chest/Shoulders,Workout,0.0,,1
+2025-03-05,Physiotherapy,Run,0.0,,1
+2025-03-05,Afternoon Run,Run,5.16,270.0,1
+2025-03-07,Chest/Triceps/Abs,Workout,0.0,327.0,1
+2025-03-08,Morning Run,Run,5.1,257.0,1
+2025-03-10,Morning Run,Run,5.1,230.0,1
+2025-03-13,Chest/Back/Calf Raises,Workout,0.0,,1
+2025-03-12,Physiotherapy,Workout,0.0,,1
+2025-03-14,Afternoon Run,Run,5.18,219.0,1
+2025-03-16,Afternoon Run,Run,1.77,105.0,1
+2025-03-10,Bicep/Shoulders,Workout,0.0,202.0,1
+2025-03-19,Physiotherapy,Workout,0.0,,1
+2025-03-20,Last Run Before The Sun Sets,Run,10.13,,1
+2025-03-24,Lunch Run,Run,5.12,282.0,1
+2025-03-24,Shoulders/Chest/Triceps,Workout,0.0,705.0,1
+2025-03-25,Biceps/Triceps/Chest/Back,Workout,0.0,341.0,1
+2025-03-26,Physiotherapy,Workout,0.0,,1
+2025-03-26,Afternoon Run,Run,1.78,104.0,1
+2025-03-27,Rows,Workout,0.0,,1
+2025-03-28,Night Workout,Workout,0.0,232.0,1
+2025-03-29,Afternoon Run,Run,2.32,137.0,1
+2025-04-04,Lunch Run,Run,5.17,279.0,1
+2025-04-06,PB: Stage 4 Cancer to Lincoln 10k in 50 Months,Run,10.1,578.0,1
+2025-04-07,Back and chest,Workout,0.0,210.0,1
+2025-04-09,Shoulders Triceps and Squats,Workout,0.0,321.0,1
+2025-04-09,Physiotherapy,Workout,0.0,,1
+2025-04-02,Physiotherapy,Workout,0.0,,1
+2025-04-10,Afternoon Walk,Walk,3.31,160.0,1
+2025-04-11,Biceps and shoulders,Workout,0.0,150.0,1
+2025-04-13,Lunch Run,Run,1.8,130.0,1
+2025-04-14,Shoulders and biceps,Workout,0.0,161.0,1
+2025-04-15,Chest and Back,Workout,0.0,257.0,1
+2025-04-16,Physiotherapy,Workout,0.0,,1
+2025-04-17,Triceps and shoulders,Workout,0.0,,1
+2025-04-24,Morning Walk,Walk,1.92,197.0,1
+2025-04-24,Chest and Biceps,Workout,0.0,240.0,1
+2025-04-25,Back and Shoulders,Workout,0.0,199.0,1
+2025-04-26,Triceps and biceps,Workout,0.0,303.0,1
+2025-04-27,Morning Run,Run,2.51,138.0,1
+2025-04-28,Shoulders and Back,Workout,0.0,246.0,1
+2025-05-05,Evening Walk,Walk,6.75,272.0,1
+2025-05-06,Back/Chest/Triceps,Workout,0.0,339.0,1
+2025-04-26,Triceps/Biceps,Workout,0.0,,1
+2025-04-30,Physiotherapy,Workout,0.0,,1
+2025-05-08,Chest,Workout,0.0,195.0,1
+2025-05-20,thought I’d do some exercise,Workout,0.0,241.0,1
+2025-05-21,Physiotherapy,Workout,0.0,,1
+2025-05-22,Back/Bicep,Workout,0.0,188.0,1
+2025-05-24,Chest/Shoulder,Workout,0.0,188.0,1
+2025-05-24,Treadmill run,Virtual Run,0.0,,1
+2025-05-28,Afternoon Workout,Workout,0.0,212.0,1
+2025-05-29,Afternoon Walk,Walk,5.9,638.0,1
+2025-05-30,Afternoon Walk,Walk,1.93,107.0,1
+2025-05-30,Shoulders and triceps,Weight Training,0.0,171.0,1
+2025-06-01,The Horse (I don’t see colour),Walk,3.02,315.0,1
+2025-06-02,Lunch Walk,Walk,6.84,880.0,1
+2025-06-02,Biceps/Triceps/Glutes/Shoulders,Weight Training,0.0,180.0,1
+2025-06-03,Evening Run,Run,1.0,111.0,1
+2025-06-03,Chest/Back,Weight Training,0.0,112.0,1
+2025-06-04,Legs,Weight Training,0.0,172.0,1
+2025-06-06,Evening Walk,Walk,7.41,432.0,1
+2025-06-08,Shoulders/Biceps/Chest,Weight Training,0.0,130.0,1
+2025-06-09,Back/Triceps/Glutes,Weight Training,0.0,132.0,1
+2025-06-09,Evening Walk,Walk,2.0,116.0,1
+2025-06-12,Morning Walk,Walk,7.36,527.0,1
+2025-06-15,Morning Walk,Walk,2.51,172.0,1
+2025-06-15,Circuit Gilles Villeneuve,Walk,3.34,308.0,1
+2025-07-04,Afternoon Walk,Walk,4.31,645.0,1
+2025-07-04,Night Walk,Walk,2.01,173.0,1
+2025-07-08,Shoulders/Back/Biceps,Weight Training,0.0,108.0,1
+2025-07-08,Night Walk,Walk,1.69,88.0,1
+2025-07-14,Shoulders/Chest/Triceps,Weight Training,0.0,128.0,1
+2025-07-15,Afternoon Run,Run,5.15,289.0,1
+2025-07-16,Evening Run,Run,2.44,151.0,1
+2025-07-16,Physiotherapy,Workout,0.0,,1
+2025-07-17,Lunch Walk,Walk,1.65,89.0,1
+2025-07-17,Legs,Workout,0.0,,1
+2025-07-17,Evening Run,Run,2.44,174.0,1
+2025-07-18,Lunch Run,Run,1.15,66.0,1
+2025-07-18,Back/Biceps,Weight Training,0.0,85.0,1
+2025-07-19,Legs,Weight Training,0.0,66.0,1
+2025-07-19,Night Weight Training,Weight Training,0.0,248.0,1
+2025-07-20,Abductor/Adductor/Leg Press,Weight Training,0.0,108.0,1
+2025-07-20,Back/Biceps,Weight Training,0.0,78.0,1
+2025-07-21,Afternoon Run,Run,2.41,133.0,1
+2025-07-21,Shoulders/Triceps/Chest,Weight Training,0.0,131.0,1
+2025-07-22,Afternoon Run,Run,2.57,140.0,1
+2025-07-22,Leg Extension/Leg Curl,Weight Training,0.0,52.0,1
+2025-07-23,Physiotherapy,Workout,0.0,,1
+2025-07-23,Back/Biceps,Weight Training,0.0,88.0,1
+2025-07-23,Evening Walk,Walk,1.66,94.0,1
+2025-07-24,Abductors/Adductors/Leg Press,Weight Training,0.0,107.0,1
+2025-07-24,Tandem Walking,Run,0.02,47.0,1
+2025-07-24,Treadmill Run,Run,5.0,347.0,1
+2025-07-25,Shoulders/Triceps/Chest,Weight Training,0.0,134.0,1
+2025-07-25,Leg curl / leg extension,Weight Training,0.0,,1
+2025-07-26,Afternoon Run,Run,2.16,115.0,1
+2025-07-26,Afternoon Walk,Walk,1.24,71.0,1
+2025-07-26,Hips and Leg Press,Weight Training,0.0,77.0,1
+2025-07-27,Afternoon Run,Run,5.17,291.0,1
+2025-07-27,Back/Biceps,Weight Training,0.0,,1
+2025-07-27,Evening Walk,Walk,1.39,76.0,1
+2025-07-28,Shoulders/Chest/Triceps,Weight Training,0.0,147.0,1
+2025-07-28,Leg Curl / Leg extension,Weight Training,0.0,58.0,1
+2025-07-29,Afternoon Run,Run,2.65,147.0,1
+2025-07-29,Evening Weight Training,Weight Training,0.0,103.0,1
+2025-07-30,Evening Run,Run,3.22,183.0,1
+2025-07-31,Biceps and Back,Weight Training,0.0,97.0,1
+2025-07-31,Evening Run,Run,4.59,268.0,1
+2025-08-03,Lunch Run,Run,2.15,219.0,1
+2025-08-03,Night Weight Training,Weight Training,0.0,162.0,1
+2025-08-04,Afternoon Run,Run,0.09,8.0,1
+2025-08-05,Abductors/Adductors/Leg Press,Run,0.0,,1
+2025-08-05,Back/Biceps,Weight Training,0.0,98.0,1
+2025-08-06,Evening Run,Run,5.17,291.0,1
+2025-08-07,Afternoon Run,Run,2.46,148.0,1
+2025-08-07,Evening Weight Training,Weight Training,0.0,71.0,1
+2025-08-08,Shoulder/Chest/Triceps,Weight Training,0.0,173.0,1
+2025-08-09,Afternoon Run,Run,5.17,308.0,1
+2025-08-09,Hips and Leg Press,Weight Training,0.0,,1
+2025-08-10,Back and Biceps,Weight Training,0.0,100.0,1
+2025-08-10,Legs,Run,0.0,,1
+2025-08-11,Shoulders/Chest/Triceps,Weight Training,0.0,160.0,1
+2025-08-12,Morning Run,Run,5.79,355.0,1
+2025-08-13,Lunch Hike,Hike,3.96,599.0,1
+2025-08-14,Physio HEP,Weight Training,0.0,149.0,1
+2025-08-14,Afternoon Walk,Walk,5.44,368.0,1
+2025-08-14,Hips and Legs,Weight Training,0.0,145.0,1
+2025-08-14,Evening Run,Run,5.17,311.0,1
+2025-08-15,Back and biceps,Weight Training,0.0,95.0,1
+2025-08-15,Evening Run,Run,2.9,177.0,1
+2025-08-16,Afternoon Weight Training,Weight Training,0.0,128.0,1
+2025-08-17,Afternoon Weight Training,Weight Training,0.0,123.0,1
