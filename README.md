@@ -5,18 +5,10 @@ to see if I can reject/fail to reject these hypotheses:
 
 ## Potential hypotheses:
 - Exercising doesn't burn any additional calories
-  - H0: exercise has no effect on body weight change 
-  - H1: exercise has an effect on body weight change
-  - It is my hypothesis that exercise doesn't burn any calories beyond the base rate
-    - Eg: If I need 3000 calories per day to maintain my weight, doing exercise to burn 500 calories won't result in a 
-    net calorie deficit
-      - In this scenario, if exercising did burn calories, I would expect the net calories for the day to be 2500
-- Eating in a calorie surplus means more muscle growth
-  - I need to find at what calorie intake approximately results in no weight gain, this is my base calorific needs
-  - Comparing base calorific needs vs surplus calorific need days muscle mass gains
-  - H0: Days when in a calorie surplus, when eating (bodyweight, kg * 1.8g protein) had a bigger effect on muscle mass 
-  gains
-  - H1: Calorie surplus doesn't affect muscle mass gains
+  - H0: Exercise has no effect on body weight changes day to day when controlling for calorific intake and when daily 
+carbohydrate content is less than 100g
+  - H1: Exercise has an effect on body weight changes day to day when controlling for calorific intake and daily 
+carbohydrate content is less than 100g
 
 ## Data Sources
 ### MyFitnessPal
