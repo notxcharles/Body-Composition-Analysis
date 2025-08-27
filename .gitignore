@@ -211,9 +211,14 @@ __marimo__/
 .idea/
 
 # Personal Datasets
+/DataInput/My Workout Data/
 /DataInput/My Workout Data/workout_data_2023.xlsx
+/DataInput/MyFitnessPal/
 /DataInput/MyFitnessPal/Nutrition-Summary-2020-05-19-to-2025-08-15.csv
+/DataInput/Strava/
 /DataInput/Strava/activities.csv
 /DataInput/Strong App/strong.csv
+/DataInput/Weights and Total Cal Intake/
 /DataInput/Weights and Total Cal Intake/Missing data dates.csv
 /DataInput/Weights and Total Cal Intake/Project Charlie 2024 v 10 - 08 26.csv
+
