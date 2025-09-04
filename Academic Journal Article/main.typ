@@ -8,6 +8,17 @@
   #text(size: 16pt, weight: "bold")[
     The Effect of Exercise on Daily Body Weight Changes During Low-Carbohydrate Intake: An N-of-1 Study
   ]
+  #v(0.3cm)
+  
+  #text(size: 14pt)[
+    [Charles Harrison]
+  ]
+  
+  #v(0.2cm)
+  
+  #text(size: 11pt)[
+    Code and data available at: #link("https://github.com/notxcharles/Body-Composition-Analysis/")[https://github.com/notxcharles/Body-Composition-Analysis/]
+  ]
 ]
 
 #v(0.5cm)
