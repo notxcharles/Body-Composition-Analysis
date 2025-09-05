@@ -151,9 +151,24 @@ The matched samples consisted of 41 observations each for exercise and non-exerc
 - *Mean difference:* 0.17 kg (exercise vs. non-exercise)
 - *Median difference:* 0.1 kg
 - *Ratio of standard deviations:* 1.07
-
-*[INSERT FIGURE 1: Distribution Visualisations]*
-#emph[Figure 1 should include: (A) Histogram showing distribution of daily weight changes for both groups, (B) Box plot comparing medians and quartiles between exercise and non-exercise groups, (C) Violin plot displaying probability density distributions for both groups.]
+#figure(
+  image("../4. Inferential analysis and Hypothesis testing/Dataset Plots/Histograms.jpg", width: 80%),
+  caption: [
+    Overlapping histograms comparing the distributions of weight change values in each sample group
+  ],
+)
+#figure(
+  image("../4. Inferential analysis and Hypothesis testing/Dataset Plots/Box Plots.jpg", width: 80%),
+  caption: [
+    Box plot comparing medians and quartiles between exercise and non-exercise groups
+  ],
+)
+#figure(
+  image("../4. Inferential analysis and Hypothesis testing/Dataset Plots/Violin.jpg", width: 80%),
+  caption: [
+    Violin plots displaying probability density distributions for both sample groups
+  ],
+)
 
 #heading(level: 2)[Assumption Testing]
 
