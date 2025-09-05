@@ -28,7 +28,7 @@
 
 *Background:* Understanding individual responses to exercise interventions on body weight is crucial for personalised health management, particularly during post-chemotherapy recovery when traditional physiological responses may be altered. This n-of-1 study examined whether exercise influences daily body weight changes when controlling for calorific intake during periods of low carbohydrate consumption in an individual recovering from Stage 4 brain cancer and chemotherapy-induced neurological damage.
 
-*Methods:* A single-subject experimental design was employed using daily measurements from an Omron BF508 digital scale, comprehensive dietary logs, and exercise records. Data was collected over 2.5 years with strict inclusion criteria: daily carbohydrate intake \<100g and complete data availability. After outlier removal using the 1.5×IQR rule, stratified sampling by calorific intake (10-calorie bins) yielded matched samples of 41 observations each for exercise and non-exercise days.
+*Methods:* A single-subject experimental design was employed using daily measurements from an Omron BF508 @omron2025 digital scale, comprehensive dietary logs, and exercise records. Data was collected over 2.5 years with strict inclusion criteria: daily carbohydrate intake \<100g and complete data availability. After outlier removal using the 1.5×IQR rule, stratified sampling by calorific intake (10-calorie bins) yielded matched samples of 41 observations each for exercise and non-exercise days.
 
 *Results:* The Mann-Whitney U test revealed no significant difference in daily weight changes between exercise and non-exercise days (U = 874.5, p = 0.756). Mean difference was 0.17 kg, with a median difference of 0.1 kg. Multiple validation tests confirmed these findings: permutation test (p = 0.743), Kolmogorov-Smirnov test (p = 0.779), and Brunner-Munzel test (p = 0.758). Effect size measures indicated minimal practical significance (Cliff's δ = 0.040).
 
@@ -73,7 +73,7 @@ Daily body composition measurements were obtained using an Omron BF508 digital s
 - Estimated visceral fat percentage
 
 #heading(level: 3)[Exercise Records]
-Exercise data was recorded with an Apple Watch Series 5 or a Garmin Vívoactive 6 watch and logged through Strava during each exercise session. Each Strava record contained:
+Exercise data was recorded with an Apple Watch Series 5 or a Garmin Vívoactive 6 watch and logged through Strava during each exercise session. Each Strava @strava2025 record contained:
 - Date of exercise
 - Type of exercise performed
 - Duration of exercise sessions
@@ -81,7 +81,7 @@ Exercise data was recorded with an Apple Watch Series 5 or a Garmin Vívoactive 
 - Estimated calories burned (calculated by Strava's proprietary algorithms)
 
 #heading(level: 3)[Dietary Assessment]
-Comprehensive dietary logs were maintained using MyFitnessPal, including:
+Comprehensive dietary logs were maintained using MyFitnessPal @myfitnesspal2025, including:
 - Total daily calorific intake
 - Macronutrient composition (carbohydrates, fats, proteins)
 - Detailed food item tracking
@@ -263,5 +263,4 @@ This research received no external funding and was conducted as an independent s
 The author declares no conflicts of interest. This study was conducted independently without any commercial relationships or financial interests that could influence the research outcomes.
 
 #heading[References]
-
-[References would be added here following appropriate journal formatting guidelines]
+#bibliography("references.bib", style: "harvard-cite-them-right", full: true, title: none)
