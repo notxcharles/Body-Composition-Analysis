@@ -26,7 +26,7 @@
 // Abstract
 #heading(level: 1, numbering: none)[Abstract]
 
-*Background:* Understanding individual responses to exercise interventions on body weight is crucial for personalised health management. This n-of-1 study examined whether exercise influences daily body weight changes when controlling for calorific intake during periods of low carbohydrate consumption.
+*Background:* Understanding individual responses to exercise interventions on body weight is crucial for personalised health management, particularly during post-chemotherapy recovery when traditional physiological responses may be altered. This n-of-1 study examined whether exercise influences daily body weight changes when controlling for calorific intake during periods of low carbohydrate consumption in an individual recovering from Stage 4 brain cancer and chemotherapy-induced neurological damage.
 
 *Methods:* A single-subject experimental design was employed using daily measurements from an Omron BF508 digital scale, comprehensive dietary logs, and exercise records. Data was collected over 2.5 years with strict inclusion criteria: daily carbohydrate intake \<100g and complete data availability. After outlier removal using the 1.5×IQR rule, stratified sampling by calorific intake (10-calorie bins) yielded matched samples of 41 observations each for exercise and non-exercise days.
 
