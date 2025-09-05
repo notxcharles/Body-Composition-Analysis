@@ -6,12 +6,12 @@
 // Title and metadata
 #align(center)[
   #text(size: 16pt, weight: "bold")[
-    The Effect of Exercise on Daily Body Weight Changes During Low-Carbohydrate Intake: An N-of-1 Study
+    The Effect of Exercise on Daily Body Weight Changes During Post-Chemotherapy Recovery: An N-of-1 Study of Neurological Rehabilitation Following Stage 4 Brain Cancer Treatment
   ]
   #v(0.3cm)
   
   #text(size: 14pt)[
-    [Charles Harrison]
+    Charles Harrison
   ]
   
   #v(0.2cm)
@@ -41,11 +41,15 @@
 // Main content
 #heading[Introduction]
 
-The relationship between exercise and body weight changes remains complex and highly individualised, with significant variation in responses across different populations and in differing dietary contexts. While population-level studies provide valuable insights into general trends, they may not capture the nuanced physiological responses experienced by individuals under specific dietary regimens.
+The relationship between exercise and body weight changes remains complex and highly individualised, with significant variation in responses across different populations and dietary contexts. This complexity becomes even more pronounced in clinical recovery situations, where traditional population-level findings may not apply to individuals recovering from severe medical treatments and their associated complications.
 
-N-of-1 studies, also known as single-case experimental designs, offer a rigorous methodology for examining individual responses to interventions over time. This approach is particularly valuable in personalised medicine contexts where understanding individual variation is paramount for optimising health outcomes.
+While population-level studies provide valuable insights into general trends, they may not capture the nuanced physiological responses experienced by individuals under specific dietary regimens or clinical circumstances. This limitation is particularly relevant for individuals recovering from cancer treatments, where chemotherapy-induced complications such as neuropathy, muscle atrophy, and metabolic disruptions can fundamentally alter normal physiological responses to exercise interventions.
 
-The present study was designed to examine whether daily exercise influences body weight fluctuations in a single individual while controlling for calorific intake and maintaining a low-carbohydrate dietary pattern (≤100g carbohydrates daily). This research addresses a gap in the literature regarding individual-level responses to exercise under controlled nutritional conditions.
+N-of-1 studies, also known as single-case experimental designs, offer a rigorous methodology for examining individual responses to interventions over time. This approach is particularly valuable in personalised medicine contexts and clinical recovery situations where understanding individual variation is paramount for optimising health outcomes and rehabilitation strategies.
+
+The present study was designed to examine whether daily exercise influences body weight fluctuations in an individual recovering from Stage 4 brain cancer with leptomeningeal spinal disease, while controlling for calorific intake and maintaining a low-carbohydrate dietary pattern (≤100g carbohydrates daily). The participant underwent intensive chemotherapy treatment that resulted in severe nerve damage, muscle atrophy, and functional impairment, providing a unique clinical context for examining exercise effects during neurological recovery.
+
+This research addresses a gap in the literature regarding individual-level responses to exercise under controlled nutritional conditions during post-chemotherapy recovery, particularly in cases involving significant neurological complications and functional rehabilitation.
 
 #heading(level: 2)[Hypotheses]
 
@@ -238,21 +242,25 @@ Future n-of-1 studies might consider:
 
 #heading[Conclusions]
 
-Under controlled calorific intake and low-carbohydrate dietary conditions, exercise did not significantly influence daily body weight fluctuations in this individual case. The rigorous statistical analysis, including multiple validation approaches, provides confidence in these findings. This study demonstrates the value of n-of-1 methodologies for understanding individual responses to health interventions and emphasises the importance of personalised approaches to exercise and weight management strategies.
+Under controlled calorific intake and low-carbohydrate dietary conditions, exercise did not significantly influence daily body weight fluctuations in this individual case during post-chemotherapy recovery and rehabilitation. The rigorous statistical analysis, including multiple validation approaches, provides confidence in these findings. 
 
-The absence of significant daily effects does not negate the potential long-term benefits of regular exercise on overall health and body composition. Rather, these findings suggest that daily weight monitoring may not be the most appropriate metric for assessing short-term exercise effects in individuals following controlled dietary regimens.
+This study demonstrates the value of n-of-1 methodologies for understanding individual responses to health interventions, particularly in clinical recovery contexts. The findings emphasise the importance of personalised approaches to exercise and weight management strategies, especially for individuals recovering from intensive medical treatments.
+
+The absence of significant daily weight effects does not negate the profound functional improvements achieved during the study period or the potential long-term benefits of regular exercise on overall health and body composition. Rather, these findings suggest that daily weight monitoring may not be the most appropriate metric for assessing short-term exercise effects in individuals following controlled dietary regimens, particularly during neurological recovery phases.
+
+This research contributes to the growing body of literature on personalised medicine and highlights the unique insights that can be gained through rigorous self-experimentation, even in complex clinical contexts.
 
 #heading[Acknowledgments]
 
-[Add acknowledgments as appropriate]
+The author acknowledges the data collection platforms that made this study possible: Apple and Garmin for exercise tracking and heart rate monitoring, Strava for estimating calories burned through exercise, MyFitnessPal for comprehensive dietary logging, and Omron Healthcare for the BF508 body composition scale used for daily measurements. The author also acknowledges the open-source statistical computing community for providing the tools necessary for rigorous data analysis.
 
 #heading[Funding]
 
-[Add funding information if applicable]
+This research received no external funding and was conducted as an independent self-experimentation study.
 
 #heading[Conflicts of Interest]
 
-[Declare any conflicts of interest]
+The author declares no conflicts of interest. This study was conducted independently without any commercial relationships or financial interests that could influence the research outcomes.
 
 #heading[References]
 
