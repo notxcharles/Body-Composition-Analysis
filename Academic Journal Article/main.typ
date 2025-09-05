@@ -34,7 +34,7 @@
 
 *Conclusions:* Under controlled calorific and low-carbohydrate conditions, exercise did not significantly affect daily body weight fluctuations in this individual case. These findings highlight the importance of personalised approaches to understanding exercise effects on body composition metrics.
 
-*Keywords:* n-of-1 study, exercise physiology, body weight, low-carbohydrate diet, personalised medicine
+*Keywords:* n-of-1 study, exercise physiology, body weight, low-carbohydrate diet, personalised medicine, cancer recovery, chemotherapy rehabilitation, post-chemotherapy, neurological recovery, brain cancer
 
 #pagebreak()
 
