@@ -252,7 +252,17 @@ This research contributes to the growing body of literature on personalised medi
 
 #heading[Acknowledgments]
 
-The author acknowledges the data collection platforms that made this study possible: Apple and Garmin for exercise tracking and heart rate monitoring, Strava for estimating calories burned through exercise, MyFitnessPal for comprehensive dietary logging, and Omron Healthcare for the BF508 body composition scale used for daily measurements. The author also acknowledges the open-source statistical computing community for providing the tools necessary for rigorous data analysis.
+The author acknowledges the data collection platforms that made this study possible: Strava for exercise tracking and heart rate monitoring, MyFitnessPal for comprehensive dietary logging, and Omron Healthcare for the BF508 body composition scale used for daily measurements. The author also acknowledges the open-source statistical computing community for providing the tools necessary for rigorous data analysis.
+
+The author extends profound gratitude to Dr Matthew Griffin, whose expert medical care and treatment made this recovery and research possible. Sincere appreciation is expressed to the National Health Service (NHS) and to Teenage Cancer Trust (TCT) for providing exceptional cancer treatment and ongoing support throughout the recovery process.
+
+Special recognition goes to Eden Davis for over two years of dedicated rehabilitation work, helping the author progress from being unable to stand to regaining the ability to walk and run. Their expertise and encouragement were instrumental in achieving the functional recovery documented in this study.
+
+The author also acknowledges Kobe Sandiford for their unwavering friendship, support, and invaluable help in rebuilding social connections during the recovery process. Their encouragement and companionship played a crucial role in regaining not just physical health, but overall quality of life.
+
+Most importantly, the author acknowledges Rex Harrison for his unwavering support, care, and encouragement over the past five years, without whom this recovery would not have been possible.
+
+Finally, the author extends heartfelt gratitude to all family members, friends, healthcare professionals, and supporters who provided assistance, encouragement, and care throughout the cancer diagnosis, treatment, and recovery journey. This research stands as a testament to the collective effort of everyone who contributed to making this recovery possible.
 
 #heading[Funding]
 
