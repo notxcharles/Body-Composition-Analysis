@@ -28,7 +28,7 @@
 
 *Background:* Understanding individual responses to exercise interventions on body weight is crucial for personalised health management, particularly during post-chemotherapy recovery when traditional physiological responses may be altered. This n-of-1 study examined whether exercise influences daily body weight changes when controlling for calorific intake during periods of low carbohydrate consumption in an individual recovering from Stage 4 brain cancer and chemotherapy-induced neurological damage.
 
-*Methods:* A single-subject experimental design was employed using daily measurements from an Omron BF508 @omron2025 digital scale, comprehensive dietary logs, and exercise records. Data was collected over 2.5 years with strict inclusion criteria: daily carbohydrate intake \<100g and complete data availability. After outlier removal using the 1.5×IQR rule, stratified sampling by calorific intake (10-calorie bins) yielded matched samples of 41 observations each for exercise and non-exercise days.
+*Methods:* A single-subject experimental design was employed using daily measurements from an Omron BF508 @omron2025 digital scale, comprehensive dietary logs, and exercise records. Data was collected over 2.5 years with strict inclusion criteria: daily carbohydrate intake ≤100g and complete data availability. After outlier removal using the 1.5×IQR rule, stratified sampling by calorific intake (10-calorie bins) yielded matched samples of 41 observations each for exercise and non-exercise days.
 
 *Results:* The Mann-Whitney U test revealed no significant difference in daily weight changes between exercise and non-exercise days (U = 874.5, p = 0.756). Mean difference was 0.17 kg, with a median difference of 0.1 kg. Multiple validation tests confirmed these findings: permutation test (p = 0.743), Kolmogorov-Smirnov test (p = 0.779), and Brunner-Munzel test (p = 0.758). Effect size measures indicated minimal practical significance (Cliff's δ = 0.040).
 
@@ -53,8 +53,8 @@ This research addresses a gap in the literature regarding individual-level respo
 
 #heading(level: 2)[Hypotheses]
 
-- *$H_0$ (Null Hypothesis):* Exercise has no effect on body weight changes day-to-day when controlling for calorific intake and when daily carbohydrate content is less than 100g
-- *$H_1$ (Alternative Hypothesis):* Exercise has an effect on body weight changes day-to-day when controlling for calorific intake and when daily carbohydrate content is less than 100g
+- *$H_0$ (Null Hypothesis):* Exercise has no effect on body weight changes day-to-day when controlling for calorific intake and when daily carbohydrate content is less than or equal to 100g
+- *$H_1$ (Alternative Hypothesis):* Exercise has an effect on body weight changes day-to-day when controlling for calorific intake and when daily carbohydrate content is less than or equal to 100g
 
 #heading[Methods]
 
@@ -113,8 +113,8 @@ All datasets (body composition, exercise, and dietary) were merged based on matc
 3. Retention of only complete cases with values in all measured variables
 
 This process resulted in two distinct sample populations:
-- *Sample Group 1:* Days with no exercise performed and carbohydrate intake \<100g
-- *Sample Group 2:* Days with exercise performed (≥150 calories burned as estimated by Strava) and carbohydrate intake \<100g
+- *Sample Group 1:* Days with no exercise performed and carbohydrate intake ≤100g
+- *Sample Group 2:* Days with exercise performed (≥150 calories burned as estimated by Strava) and carbohydrate intake ≤100g
 
 #heading(level: 3)[Outlier Detection and Removal]
 Outliers in daily weight change were identified and removed using the 1.5×IQR (Interquartile Range) rule to ensure robust statistical analysis.
