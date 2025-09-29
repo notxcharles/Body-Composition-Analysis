@@ -3,7 +3,7 @@
 
 This repository accompanies my academic article examining the relationship between daily exercise and body weight fluctuations during post-chemotherapy recovery. The study focuses on an **N-of-1 design**, tracking outcomes in the context of neurological rehabilitation after Stage 4 brain cancer treatment.
 
-📄 **[Read the full article (PDF)](./Academic%20Journal%20Article/Submission/main.pdf)**
+📄 **[Read the full article (PDF)](./Academic%20Journal%20Article/main.pdf)**
 
 ## Summary
 
