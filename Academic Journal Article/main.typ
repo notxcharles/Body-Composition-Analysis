@@ -34,7 +34,7 @@
 
 *Conclusions:* Under controlled calorific and low-carbohydrate conditions, exercise did not significantly affect daily body weight fluctuations in this individual case. These findings highlight the importance of personalised approaches to understanding exercise effects on body composition metrics.
 
-*Keywords:* n-of-1 study, exercise physiology, body weight, low-carbohydrate diet, personalised medicine, cancer recovery, chemotherapy rehabilitation, post-chemotherapy, neurological recovery, brain cancer
+*Keywords:* n-of-1 study, exercise physiology, body weight, low-carbohydrate diet, personalised medicine, cancer recovery, chemotherapy rehabilitation, post-chemotherapy, neurological recovery, brain cancer, medulloblastoma, leptomeningeal spinal disease
 
 #pagebreak()
 
@@ -47,7 +47,7 @@ While population-level studies provide valuable insights into general trends, th
 
 N-of-1 studies, also known as single-case experimental designs, offer a rigorous methodology for examining individual responses to interventions over time. This approach is particularly valuable in personalised medicine contexts and clinical recovery situations where understanding individual variation is paramount for optimising health outcomes and rehabilitation strategies.
 
-The present study was designed to examine whether daily exercise influences body weight fluctuations in an individual recovering from Stage 4 brain cancer with leptomeningeal spinal disease, while controlling for calorific intake and maintaining a low-carbohydrate dietary pattern (≤100g carbohydrates daily). The participant underwent intensive chemotherapy treatment that resulted in severe nerve damage, muscle atrophy, and functional impairment, providing a unique clinical context for examining exercise effects during neurological recovery.
+The present study was designed to examine whether daily exercise influences body weight fluctuations in an individual recovering from Stage 4 brain cancer (medulloblastoma with leptomeningeal spinal disease), while controlling for calorific intake and maintaining a low-carbohydrate dietary pattern (≤100g carbohydrates daily). The participant underwent intensive chemotherapy treatment that resulted in severe nerve damage, muscle atrophy, and functional impairment, providing a unique clinical context for examining exercise effects during neurological recovery.
 
 This research addresses a gap in the literature regarding individual-level responses to exercise under controlled nutritional conditions during post-chemotherapy recovery, particularly in cases involving significant neurological complications and functional rehabilitation.
 
